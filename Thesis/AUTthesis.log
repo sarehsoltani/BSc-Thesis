@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  9 MAY 2019 00:24
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  9 MAY 2019 21:20
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1512,59 +1512,27 @@ Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
 Missing character: There is no M in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
  [12]
-! Missing } inserted.
-<inserted text> 
-                }
-l.28 \LTRfootnote{\verb; SIM 808}
-                                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\verb@egroup ...erb@balance@group \@empty \egroup 
-                                                  
-l.28 \LTRfootnote{\verb; SIM 808}
-                                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-! LaTeX Error: \verb illegal in command argument.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \LTRfootnote{\verb; SIM 808}
-                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[13] [14] [15]) [16]
+File: ArduinoUno_R3.jpg Graphic file (type bmp)
+<ArduinoUno_R3.jpg>
+ [13] [14] [15] [16]) [17]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 فصل 4.
-[17
+[18
 
 
 
-] [18] [19]) [20]
+] [19] [20]) [21]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[21
+[22
 
 
 
-]) [22] (AUTthesis.bbl
+]) [23] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1574,13 +1542,13 @@ LaTeX Font Warning: Font shape `TU/BNazanin(0)/m/it' undefined
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/it' will be
 (Font)              scaled to size 14.39996pt on input line 34.
-) [23
+) [24
 
 
 ]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [24
+ (appendix1.tex) [25
 
 
 ]
@@ -1591,7 +1559,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [25
+ [26
 
 
 
@@ -1600,7 +1568,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [26])
+ [27])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1608,7 +1576,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [27
+ [28
 
 
 
@@ -1618,11 +1586,11 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 )
-[28]
+[29]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [29
+(en-abstract.tex) [30
 
 
 ] (en_title.tex)
@@ -1634,20 +1602,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 05C96A271405CA5EED7CD85D7F2A98CD.
+(rerunfilecheck)             Checksum: 0D22B449A32698F4A86F4A963F7FF8DC.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25907 strings out of 427748
- 486056 string characters out of 3147202
- 631927 words of memory out of 3000000
- 29480 multiletter control sequences out of 15000+200000
+ 25921 strings out of 427748
+ 486273 string characters out of 3147202
+ 630927 words of memory out of 3000000
+ 29493 multiletter control sequences out of 15000+200000
  541767 words of font info for 141 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,11n,69p,2696b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (41 pages).
+Output written on AUTthesis.pdf (42 pages).
