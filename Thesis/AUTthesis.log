@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  10 MAY 2019 14:56
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  10 MAY 2019 19:59
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1530,31 +1530,33 @@ File: backside-sim808.jpg Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no G in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=persian-tex-text;!
-Missing character: There is no P in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=persian-tex-text;!
-Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=persian-tex-text;!
-[15] [16] [17] [18]) [19]
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+[][]
+ []
+
+[15]
+File: gps-antanna.png Graphic file (type bmp)
+<gps-antanna.png>
+ [16] [17] [18] [19]) [20]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 فصل 4.
-[20
+[21
 
 
 
-] [21] [22]) [23]
+] [22] [23]) [24]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[24
+[25
 
 
 
-]) [25] (AUTthesis.bbl
+]) [26] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1564,13 +1566,13 @@ LaTeX Font Warning: Font shape `TU/BNazanin(0)/m/it' undefined
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/it' will be
 (Font)              scaled to size 14.39996pt on input line 34.
-) [26
+) [27
 
 
 ]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [27
+ (appendix1.tex) [28
 
 
 ]
@@ -1581,7 +1583,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [28
+ [29
 
 
 
@@ -1590,7 +1592,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [29])
+ [30])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1598,7 +1600,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [30
+ [31
 
 
 
@@ -1608,11 +1610,11 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 )
-[31]
+[32]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [32
+(en-abstract.tex) [33
 
 
 ] (en_title.tex)
@@ -1629,18 +1631,15 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25933 strings out of 427748
- 486511 string characters out of 3147202
+ 25943 strings out of 427748
+ 486664 string characters out of 3147202
  631927 words of memory out of 3000000
- 29503 multiletter control sequences out of 15000+200000
+ 29512 multiletter control sequences out of 15000+200000
  541767 words of font info for 141 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (45 pages).
+Output written on AUTthesis.pdf (46 pages).

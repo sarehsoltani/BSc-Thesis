@@ -30,29 +30,29 @@
 \contentsline {subsection}{\numberline {3-3-2}ماژول آردوینو}{13}{subsection.3.3.2}% 
 \contentsline {subsection}{\numberline {3-3-3}ماژول \lr {SIM 808}}{14}{subsection.3.3.3}% 
 \contentsline {subsection}{\numberline {3-3-4}آنتن \lr {GPS}}{16}{subsection.3.3.4}% 
-\contentsline {subsection}{\numberline {3-3-5}اجزاء نرم‌افزاری}{16}{subsection.3.3.5}% 
-\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{16}{section.3.4}% 
-\contentsline {subsection}{\numberline {3-4-1}ويرگول}{16}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3-4-2}نقطه}{17}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3-4-3}دونقطه}{17}{subsection.3.4.3}% 
-\contentsline {subsection}{\numberline {3-4-4}گیومه}{17}{subsection.3.4.4}% 
-\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{18}{subsection.3.4.5}% 
-\contentsline {subsection}{\numberline {3-4-6}خط تیره}{18}{subsection.3.4.6}% 
-\contentsline {subsection}{\numberline {3-4-7}پرانتز}{18}{subsection.3.4.7}% 
-\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{18}{section.3.5}% 
-\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{20}{chapter.4}% 
-\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{21}{section.4.1}% 
-\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{21}{section.4.2}% 
-\contentsline {section}{\numberline {4-3}ساده‌نویسی }{21}{section.4.3}% 
-\contentsline {section}{\numberline {4-4}وحدت موضوع}{22}{section.4.4}% 
-\contentsline {section}{\numberline {4-5}اختصار}{22}{section.4.5}% 
-\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{22}{section.4.6}% 
-\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{22}{section.4.7}% 
-\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{22}{section.4.8}% 
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{24}{chapter.5}% 
-\contentsline {section}{\numberline {5-1}پیشنهادات}{25}{section.5.1}% 
-\contentsline {chapter}{منابع و مراجع}{26}{appendix*.6}% 
-\contentsline {chapter}{پیوست}{27}{appendix*.7}% 
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{28}{appendix*.9}% 
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{30}{appendix*.10}% 
+\contentsline {subsection}{\numberline {3-3-5}اجزاء نرم‌افزاری}{17}{subsection.3.3.5}% 
+\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{17}{section.3.4}% 
+\contentsline {subsection}{\numberline {3-4-1}ويرگول}{17}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3-4-2}نقطه}{18}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3-4-3}دونقطه}{18}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3-4-4}گیومه}{18}{subsection.3.4.4}% 
+\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{19}{subsection.3.4.5}% 
+\contentsline {subsection}{\numberline {3-4-6}خط تیره}{19}{subsection.3.4.6}% 
+\contentsline {subsection}{\numberline {3-4-7}پرانتز}{19}{subsection.3.4.7}% 
+\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{19}{section.3.5}% 
+\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{21}{chapter.4}% 
+\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{22}{section.4.1}% 
+\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{22}{section.4.2}% 
+\contentsline {section}{\numberline {4-3}ساده‌نویسی }{22}{section.4.3}% 
+\contentsline {section}{\numberline {4-4}وحدت موضوع}{23}{section.4.4}% 
+\contentsline {section}{\numberline {4-5}اختصار}{23}{section.4.5}% 
+\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{23}{section.4.6}% 
+\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{23}{section.4.7}% 
+\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{23}{section.4.8}% 
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{25}{chapter.5}% 
+\contentsline {section}{\numberline {5-1}پیشنهادات}{26}{section.5.1}% 
+\contentsline {chapter}{منابع و مراجع}{27}{appendix*.6}% 
+\contentsline {chapter}{پیوست}{28}{appendix*.7}% 
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{29}{appendix*.9}% 
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{31}{appendix*.10}% 
 \contentsfinish 
