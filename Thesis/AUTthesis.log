@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  11 MAY 2019 00:01
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  11 MAY 2019 12:46
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1552,7 +1552,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Missing character: There is no ٰ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
-[17] [18] [19] [20] [21]) [22]
+File: arduino-ide.jpg Graphic file (type bmp)
+<arduino-ide.jpg>
+[17]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18] [19] [20] [21]) [22]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
@@ -1639,27 +1645,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: E03E9455ADF2AC69CD0A0308DDFAEC77.
 
-
-Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: 5B1DFB15B18A64D22060DA0B6B6C9352
-(rerunfilecheck)             After:  E03E9455ADF2AC69CD0A0308DDFAEC77.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25951 strings out of 427748
- 486790 string characters out of 3147202
+ 25957 strings out of 427748
+ 486887 string characters out of 3147202
  631927 words of memory out of 3000000
- 29518 multiletter control sequences out of 15000+200000
+ 29523 multiletter control sequences out of 15000+200000
  541767 words of font info for 141 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,12n,69p,2696b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,12n,69p,2696b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on AUTthesis.pdf (48 pages).

@@ -36,12 +36,12 @@
 \contentsline {subsection}{\numberline {3-3-8}\lr {google map}}{19}{subsection.3.3.8}% 
 \contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{19}{section.3.4}% 
 \contentsline {subsection}{\numberline {3-4-1}ويرگول}{19}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3-4-2}نقطه}{19}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3-4-3}دونقطه}{19}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3-4-2}نقطه}{20}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3-4-3}دونقطه}{20}{subsection.3.4.3}% 
 \contentsline {subsection}{\numberline {3-4-4}گیومه}{20}{subsection.3.4.4}% 
 \contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{20}{subsection.3.4.5}% 
-\contentsline {subsection}{\numberline {3-4-6}خط تیره}{20}{subsection.3.4.6}% 
-\contentsline {subsection}{\numberline {3-4-7}پرانتز}{20}{subsection.3.4.7}% 
+\contentsline {subsection}{\numberline {3-4-6}خط تیره}{21}{subsection.3.4.6}% 
+\contentsline {subsection}{\numberline {3-4-7}پرانتز}{21}{subsection.3.4.7}% 
 \contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{21}{section.3.5}% 
 \contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{23}{chapter.4}% 
 \contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{24}{section.4.1}% 
