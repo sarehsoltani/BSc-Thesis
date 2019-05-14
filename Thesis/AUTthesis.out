@@ -1,42 +1,24 @@
 \BOOKMARK [0][-]{section*.4}{فهرست اشکال}{}% 1
 \BOOKMARK [0][-]{section*.5}{فهرست جداول}{}% 2
 \BOOKMARK [0][-]{chapter.1}{مقدمه}{}% 3
-\BOOKMARK [1][-]{section.1.1}{معرفی سیستم ردیابی}{chapter.1}% 4
-\BOOKMARK [0][-]{chapter.2}{اینترنت اشیا‌}{}% 5
-\BOOKMARK [1][-]{section.2.1}{طریقه‌ی مرجع نویسی}{chapter.2}% 6
-\BOOKMARK [0][-]{chapter.3}{اجزای مورد استفاده در سیستم ردیابی}{}% 7
-\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 8
-\BOOKMARK [1][-]{section.3.2}{طراحی و معماری سیستم}{chapter.3}% 9
-\BOOKMARK [1][-]{section.3.3}{اجزاء سیستم}{chapter.3}% 10
-\BOOKMARK [2][-]{subsection.3.3.1}{اجزاء سخت‌افزاری}{section.3.3}% 11
-\BOOKMARK [2][-]{subsection.3.3.2}{ماژول آردوینو}{section.3.3}% 12
-\BOOKMARK [2][-]{subsection.3.3.3}{ماژول SIM 808}{section.3.3}% 13
-\BOOKMARK [2][-]{subsection.3.3.4}{آنتن GPS}{section.3.3}% 14
-\BOOKMARK [2][-]{subsection.3.3.5}{آنتن GSM}{section.3.3}% 15
-\BOOKMARK [2][-]{subsection.3.3.6}{اجزاء نرم‌افزاری}{section.3.3}% 16
-\BOOKMARK [2][-]{subsection.3.3.7}{نرم‌افزار Arduino IDE}{section.3.3}% 17
-\BOOKMARK [2][-]{subsection.3.3.8}{google\040map}{section.3.3}% 18
-\BOOKMARK [1][-]{section.3.4}{رعایت قواعد نشانه‌گذاری}{chapter.3}% 19
-\BOOKMARK [2][-]{subsection.3.4.1}{ويرگول}{section.3.4}% 20
-\BOOKMARK [2][-]{subsection.3.4.2}{نقطه}{section.3.4}% 21
-\BOOKMARK [2][-]{subsection.3.4.3}{دونقطه}{section.3.4}% 22
-\BOOKMARK [2][-]{subsection.3.4.4}{گیومه}{section.3.4}% 23
-\BOOKMARK [2][-]{subsection.3.4.5}{نشانه پرسشی}{section.3.4}% 24
-\BOOKMARK [2][-]{subsection.3.4.6}{خط تیره}{section.3.4}% 25
-\BOOKMARK [2][-]{subsection.3.4.7}{پرانتز}{section.3.4}% 26
-\BOOKMARK [1][-]{section.3.5}{جدا یا سرهم نوشتن برخی کلمات}{chapter.3}% 27
-\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 28
-\BOOKMARK [1][-]{section.4.1}{برخورداری از غنای علمی }{chapter.4}% 29
-\BOOKMARK [1][-]{section.4.2}{ارجاع به‌موقع و صحیح به منابع دیگر}{chapter.4}% 30
-\BOOKMARK [1][-]{section.4.3}{ساده‌نویسی }{chapter.4}% 31
-\BOOKMARK [1][-]{section.4.4}{وحدت موضوع}{chapter.4}% 32
-\BOOKMARK [1][-]{section.4.5}{اختصار}{chapter.4}% 33
-\BOOKMARK [1][-]{section.4.6}{رعایت نكات دستوري و نشانه‌گذاري}{chapter.4}% 34
-\BOOKMARK [1][-]{section.4.7}{توجه به معلومات ذهنی مخاطب}{chapter.4}% 35
-\BOOKMARK [1][-]{section.4.8}{رعایت مراحل اصولی نگارش}{chapter.4}% 36
-\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 37
-\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 38
-\BOOKMARK [0][-]{appendix*.6}{منابع و مراجع}{}% 39
-\BOOKMARK [0][-]{appendix*.7}{پیوست}{}% 40
-\BOOKMARK [0][-]{appendix*.9}{واژه‌نامه‌ی فارسی به انگلیسی}{}% 41
-\BOOKMARK [0][-]{appendix*.10}{واژه‌نامه‌ی انگلیسی به فارسی}{}% 42
+\BOOKMARK [0][-]{chapter.2}{مفاهیم}{}% 4
+\BOOKMARK [1][-]{section.2.1}{اینترنت اشیا}{chapter.2}% 5
+\BOOKMARK [0][-]{chapter.3}{اجزای مورد استفاده در سیستم ردیابی}{}% 6
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.2}{طراحی و معماری سیستم}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.3}{اجزاء سیستم}{chapter.3}% 9
+\BOOKMARK [2][-]{subsection.3.3.1}{اجزاء سخت‌افزاری}{section.3.3}% 10
+\BOOKMARK [2][-]{subsection.3.3.2}{ماژول آردوینو}{section.3.3}% 11
+\BOOKMARK [2][-]{subsection.3.3.3}{ماژول SIM 808}{section.3.3}% 12
+\BOOKMARK [2][-]{subsection.3.3.4}{آنتن GPS}{section.3.3}% 13
+\BOOKMARK [2][-]{subsection.3.3.5}{آنتن GSM}{section.3.3}% 14
+\BOOKMARK [2][-]{subsection.3.3.6}{اجزاء نرم‌افزاری}{section.3.3}% 15
+\BOOKMARK [2][-]{subsection.3.3.7}{نرم‌افزار Arduino IDE}{section.3.3}% 16
+\BOOKMARK [2][-]{subsection.3.3.8}{google\040map}{section.3.3}% 17
+\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 18
+\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 19
+\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 20
+\BOOKMARK [0][-]{appendix*.6}{منابع و مراجع}{}% 21
+\BOOKMARK [0][-]{appendix*.7}{پیوست}{}% 22
+\BOOKMARK [0][-]{appendix*.9}{واژه‌نامه‌ی فارسی به انگلیسی}{}% 23
+\BOOKMARK [0][-]{appendix*.10}{واژه‌نامه‌ی انگلیسی به فارسی}{}% 24
