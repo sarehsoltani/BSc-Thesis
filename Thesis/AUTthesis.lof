@@ -1,19 +1,16 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces نمونه یک مقاله در گوگل اسکولار}}{6}{figure.2.1}% 
-\contentsline {figure}{\numberline {2-2}{\ignorespaces پنجره‌ی باز شده در گوگل اسکولار}}{7}{figure.2.2}% 
-\contentsline {figure}{\numberline {2-3}{\ignorespaces تنظیمات مربوط به تک‌ورکز}}{9}{figure.2.3}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces بلاک دیاگرام سیستم ردیابی}}{12}{figure.3.1}% 
-\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری سیستم ردیابی پیشنهادی}}{13}{figure.3.2}% 
-\contentsline {figure}{\numberline {3-3}{\ignorespaces برد آردوینو \lr {UNO R3}}}{14}{figure.3.3}% 
-\contentsline {figure}{\numberline {3-4}{\ignorespaces نمایی از قسمت روبرو تراشه \lr {SIM 808}}}{16}{figure.3.4}% 
-\contentsline {figure}{\numberline {3-5}{\ignorespaces نمایی از قسمت پشت تراشه \lr {SIM 808}}}{16}{figure.3.5}% 
-\contentsline {figure}{\numberline {3-6}{\ignorespaces آنتن \lr {GPS}}}{18}{figure.3.6}% 
-\contentsline {figure}{\numberline {3-7}{\ignorespaces مشخصات آنتن \lr {GSM}}}{18}{figure.3.7}% 
-\contentsline {figure}{\numberline {3-8}{\ignorespaces آنتن \lr {GSM}}}{19}{figure.3.8}% 
-\contentsline {figure}{\numberline {3-9}{\ignorespaces نمایی از نرم‌افزار آردوینو}}{19}{figure.3.9}% 
+\contentsline {figure}{\numberline {3-1}{\ignorespaces بلاک دیاگرام سیستم ردیابی}}{9}{figure.3.1}% 
+\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری سیستم ردیابی پیشنهادی}}{10}{figure.3.2}% 
+\contentsline {figure}{\numberline {3-3}{\ignorespaces برد آردوینو \lr {UNO R3}}}{11}{figure.3.3}% 
+\contentsline {figure}{\numberline {3-4}{\ignorespaces نمایی از قسمت روبرو تراشه \lr {SIM 808}}}{13}{figure.3.4}% 
+\contentsline {figure}{\numberline {3-5}{\ignorespaces نمایی از قسمت پشت تراشه \lr {SIM 808}}}{13}{figure.3.5}% 
+\contentsline {figure}{\numberline {3-6}{\ignorespaces آنتن \lr {GPS}}}{15}{figure.3.6}% 
+\contentsline {figure}{\numberline {3-7}{\ignorespaces مشخصات آنتن \lr {GSM}}}{15}{figure.3.7}% 
+\contentsline {figure}{\numberline {3-8}{\ignorespaces آنتن \lr {GSM}}}{16}{figure.3.8}% 
+\contentsline {figure}{\numberline {3-9}{\ignorespaces نمایی از نرم‌افزار آردوینو}}{16}{figure.3.9}% 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 

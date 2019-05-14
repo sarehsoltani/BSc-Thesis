@@ -15,31 +15,12 @@ Bidabad, Behroz and Tayebi, Akbar.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{najafi2008finsler}
-Najafi, B, Shen, Z, and Tayebi, A.
-\newblock Finsler metrics of scalar flag curvature with special non-riemannian
-  curvature properties.
-\newblock {\em Geometriae Dedicata}, 131(1):87--97, 2008.
+\bibitem{Mukhtar2015}
+Mukhtar, Mashood.
+\newblock {GPS} based advanced vehicle tracking and vehicle control system.
+\newblock {\em International Journal of Intelligent Systems and Applications},
+  7(3):1--12, February 2015.
 
 \end{LTRbibitems}
-
-
-\bibitem{aa}
-بیدآباد, دکتر~بهروز.
-\newblock {\em هندسه‌ی منیفلد}.
-\newblock دانشگاه صنعتی امیرکبیر, 1389.
-
-
-\bibitem{zakeri}
-ذاکری, مهندس~محمدرضا.
-\newblock {\em دستورالعمل و راهنمای نگارش
-  پایان‌نامه}.
-\newblock دانشگاه صنعتی امیرکبیر, 1391.
-
-
-\bibitem{najafi}
-نجفی, دکتر~بهزاد.
-\newblock {\em هندسه‌ی منیفلد}.
-\newblock دانشگاه صنعتی امیرکبیر, 1388.
 
 \end{thebibliography}
