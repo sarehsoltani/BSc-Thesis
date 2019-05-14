@@ -23,4 +23,25 @@ Mukhtar, Mashood.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Rahman2016}
+Rahman, Md.~Marufi, Mou, Jannatul~Robaiat, Tara, Kusum, and Sarkar, Md.~Ismail.
+\newblock Real time google map and arduino based vehicle tracking system.
+\newblock  in {\em 2016 2nd International Conference on Electrical, Computer
+  {\&} Telecommunication Engineering ({ICECTE})}. {IEEE}, December 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Shah2016}
+Shah, Sajjad~Hussain and Yaqoob, Ilyas.
+\newblock A survey: Internet of things ({IOT}) technologies, applications and
+  challenges.
+\newblock  in {\em 2016 {IEEE} Smart Energy Grid Engineering ({SEGE})}. {IEEE},
+  August 2016.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

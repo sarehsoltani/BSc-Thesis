@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  14 MAY 2019 12:34
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  14 MAY 2019 12:56
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1451,14 +1451,12 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
 (Font)              scaled to size 7.70004pt on input line 2.
 
-Overfull \hbox (0.11021pt too wide) in paragraph at lines 4--5
-[][]\TU/BNazanin(0)/m/n/12 اینترنت اشیا [][][][][][][][][][][][] مجموعه وسيعي ا
-ز سنسورها و عملگرهايي است كه شرايط مختلف محیط را اندازه‌گیری[]
- []
+
+LaTeX Warning: Citation `Rahman2016' on page 2 undefined on input line 10.
 
 [2]
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 19.0081pt on input line 18.
+(Font)              scaled to size 19.0081pt on input line 21.
  [3]) [4]
 \openout2 = `chapter2.aux'.
 
@@ -1605,15 +1603,22 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 3DE8A48D1E1A36FAAA977E135D7CE8C3.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25918 strings out of 427748
- 486307 string characters out of 3147202
- 629927 words of memory out of 3000000
- 29488 multiletter control sequences out of 15000+200000
+ 25922 strings out of 427748
+ 486353 string characters out of 3147202
+ 630927 words of memory out of 3000000
+ 29492 multiletter control sequences out of 15000+200000
  541751 words of font info for 139 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,12n,69p,2696b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,11n,69p,2696b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on AUTthesis.pdf (45 pages).
