@@ -7,23 +7,24 @@
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}% 
 \contentsline {chapter}{\numberline {2}مفاهیم}{6}{chapter.2}% 
 \contentsline {section}{\numberline {2-1}اینترنت اشیا}{7}{section.2.1}% 
-\contentsline {chapter}{\numberline {3}اجزای مورد استفاده در سیستم ردیابی}{8}{chapter.3}% 
-\contentsline {section}{\numberline {3-1}مقدمه}{9}{section.3.1}% 
-\contentsline {section}{\numberline {3-2}طراحی و معماری سیستم}{9}{section.3.2}% 
-\contentsline {section}{\numberline {3-3}اجزاء سیستم}{11}{section.3.3}% 
-\contentsline {subsection}{\numberline {3-3-1}اجزاء سخت‌افزاری}{11}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3-3-2}ماژول آردوینو}{12}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3-3-3}ماژول \lr {SIM 808}}{13}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3-3-4}آنتن \lr {GPS}}{14}{subsection.3.3.4}% 
-\contentsline {subsection}{\numberline {3-3-5}آنتن \lr {GSM}}{15}{subsection.3.3.5}% 
-\contentsline {subsection}{\numberline {3-3-6}اجزاء نرم‌افزاری}{16}{subsection.3.3.6}% 
-\contentsline {subsection}{\numberline {3-3-7}نرم‌افزار \lr {Arduino IDE}}{16}{subsection.3.3.7}% 
-\contentsline {subsection}{\numberline {3-3-8}\lr {google map}}{17}{subsection.3.3.8}% 
-\contentsline {chapter}{\numberline {4}پیاده‌سازی}{18}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{19}{chapter.5}% 
-\contentsline {section}{\numberline {5-1}پیشنهادات}{20}{section.5.1}% 
-\contentsline {chapter}{منابع و مراجع}{21}{appendix*.6}% 
-\contentsline {chapter}{پیوست}{22}{appendix*.7}% 
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{23}{appendix*.9}% 
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{25}{appendix*.10}% 
+\contentsline {section}{\numberline {2-2}سیر تکامل}{8}{section.2.2}% 
+\contentsline {chapter}{\numberline {3}اجزای مورد استفاده در سیستم ردیابی}{9}{chapter.3}% 
+\contentsline {section}{\numberline {3-1}مقدمه}{10}{section.3.1}% 
+\contentsline {section}{\numberline {3-2}طراحی و معماری سیستم}{10}{section.3.2}% 
+\contentsline {section}{\numberline {3-3}اجزاء سیستم}{12}{section.3.3}% 
+\contentsline {subsection}{\numberline {3-3-1}اجزاء سخت‌افزاری}{12}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3-3-2}ماژول آردوینو}{13}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3-3-3}ماژول \lr {SIM 808}}{14}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3-3-4}آنتن \lr {GPS}}{15}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3-3-5}آنتن \lr {GSM}}{16}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3-3-6}اجزاء نرم‌افزاری}{17}{subsection.3.3.6}% 
+\contentsline {subsection}{\numberline {3-3-7}نرم‌افزار \lr {Arduino IDE}}{17}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3-3-8}\lr {google map}}{18}{subsection.3.3.8}% 
+\contentsline {chapter}{\numberline {4}پیاده‌سازی}{19}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{20}{chapter.5}% 
+\contentsline {section}{\numberline {5-1}پیشنهادات}{21}{section.5.1}% 
+\contentsline {chapter}{منابع و مراجع}{22}{appendix*.6}% 
+\contentsline {chapter}{پیوست}{23}{appendix*.7}% 
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{24}{appendix*.9}% 
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{26}{appendix*.10}% 
 \contentsfinish 
