@@ -1,56 +1,57 @@
 \BOOKMARK [0][-]{section*.4}{فهرست اشکال}{}% 1
 \BOOKMARK [0][-]{section*.5}{فهرست جداول}{}% 2
 \BOOKMARK [0][-]{chapter.1}{مقدمه}{}% 3
-\BOOKMARK [1][-]{section.1.1}{معرفی سیستم ردیابی}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.2}{این همه فایل؟!}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.3}{از کجا شروع کنم ساره؟}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.4}{مطالب پایان‌نامه را چطور بنویسم؟}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.4.1}{نوشتن فصل‌ها}{section.1.4}% 8
-\BOOKMARK [2][-]{subsection.1.4.2}{مراجع}{section.1.4}% 9
-\BOOKMARK [2][-]{subsection.1.4.3}{واژه‌نامه فارسی به انگلیسی و برعکس}{section.1.4}% 10
-\BOOKMARK [1][-]{section.1.5}{اگر سوالی داشتم، از کی بپرسم؟}{chapter.1}% 11
-\BOOKMARK [0][-]{chapter.2}{اینترنت اشیا‌}{}% 12
-\BOOKMARK [1][-]{section.2.1}{طریقه‌ی مرجع نویسی}{chapter.2}% 13
-\BOOKMARK [2][-]{subsection.2.1.1}{بارگیری مراجع}{section.2.1}% 14
-\BOOKMARK [2][-]{subsection.2.1.2}{روش ارجاع در متن}{section.2.1}% 15
-\BOOKMARK [2][-]{subsection.2.1.3}{روش اجرای برنامه}{section.2.1}% 16
-\BOOKMARK [2][-]{subsection.2.1.4}{مراجع فارسی}{section.2.1}% 17
-\BOOKMARK [1][-]{section.2.2}{راهنمای واژه‌نامه}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.3}{ساخت نمایه}{chapter.2}% 19
-\BOOKMARK [2][-]{subsection.2.3.1}{ساخت نمایه}{section.2.3}% 20
-\BOOKMARK [0][-]{chapter.3}{اجزای مورد استفاده در سیستم ردیابی}{}% 21
-\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.2}{طراحی و معماری سیستم}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.3}{اجزاء سیستم}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.1}{اجزاء سخت‌افزاری}{section.3.3}% 25
-\BOOKMARK [2][-]{subsection.3.3.2}{ماژول آردوینو}{section.3.3}% 26
-\BOOKMARK [2][-]{subsection.3.3.3}{ماژول SIM 808}{section.3.3}% 27
-\BOOKMARK [2][-]{subsection.3.3.4}{آنتن GPS}{section.3.3}% 28
-\BOOKMARK [2][-]{subsection.3.3.5}{آنتن GSM}{section.3.3}% 29
-\BOOKMARK [2][-]{subsection.3.3.6}{اجزاء نرم‌افزاری}{section.3.3}% 30
-\BOOKMARK [2][-]{subsection.3.3.7}{نرم‌افزار Arduino IDE}{section.3.3}% 31
-\BOOKMARK [2][-]{subsection.3.3.8}{google\040map}{section.3.3}% 32
-\BOOKMARK [1][-]{section.3.4}{رعایت قواعد نشانه‌گذاری}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.4.1}{ويرگول}{section.3.4}% 34
-\BOOKMARK [2][-]{subsection.3.4.2}{نقطه}{section.3.4}% 35
-\BOOKMARK [2][-]{subsection.3.4.3}{دونقطه}{section.3.4}% 36
-\BOOKMARK [2][-]{subsection.3.4.4}{گیومه}{section.3.4}% 37
-\BOOKMARK [2][-]{subsection.3.4.5}{نشانه پرسشی}{section.3.4}% 38
-\BOOKMARK [2][-]{subsection.3.4.6}{خط تیره}{section.3.4}% 39
-\BOOKMARK [2][-]{subsection.3.4.7}{پرانتز}{section.3.4}% 40
-\BOOKMARK [1][-]{section.3.5}{جدا یا سرهم نوشتن برخی کلمات}{chapter.3}% 41
-\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 42
-\BOOKMARK [1][-]{section.4.1}{برخورداری از غنای علمی }{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.2}{ارجاع به‌موقع و صحیح به منابع دیگر}{chapter.4}% 44
-\BOOKMARK [1][-]{section.4.3}{ساده‌نویسی }{chapter.4}% 45
-\BOOKMARK [1][-]{section.4.4}{وحدت موضوع}{chapter.4}% 46
-\BOOKMARK [1][-]{section.4.5}{اختصار}{chapter.4}% 47
-\BOOKMARK [1][-]{section.4.6}{رعایت نكات دستوري و نشانه‌گذاري}{chapter.4}% 48
-\BOOKMARK [1][-]{section.4.7}{توجه به معلومات ذهنی مخاطب}{chapter.4}% 49
-\BOOKMARK [1][-]{section.4.8}{رعایت مراحل اصولی نگارش}{chapter.4}% 50
-\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 51
-\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 52
-\BOOKMARK [0][-]{appendix*.6}{منابع و مراجع}{}% 53
-\BOOKMARK [0][-]{appendix*.7}{پیوست}{}% 54
-\BOOKMARK [0][-]{appendix*.9}{واژه‌نامه‌ی فارسی به انگلیسی}{}% 55
-\BOOKMARK [0][-]{appendix*.10}{واژه‌نامه‌ی انگلیسی به فارسی}{}% 56
+\BOOKMARK [1][-]{section.1.1}{اینترنت اشیا}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{معرفی سیستم ردیابی}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{این همه فایل؟!}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.4}{از کجا شروع کنم ساره؟}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.5}{مطالب پایان‌نامه را چطور بنویسم؟}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.5.1}{نوشتن فصل‌ها}{section.1.5}% 9
+\BOOKMARK [2][-]{subsection.1.5.2}{مراجع}{section.1.5}% 10
+\BOOKMARK [2][-]{subsection.1.5.3}{واژه‌نامه فارسی به انگلیسی و برعکس}{section.1.5}% 11
+\BOOKMARK [1][-]{section.1.6}{اگر سوالی داشتم، از کی بپرسم؟}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{اینترنت اشیا‌}{}% 13
+\BOOKMARK [1][-]{section.2.1}{طریقه‌ی مرجع نویسی}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.1.1}{بارگیری مراجع}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.2}{روش ارجاع در متن}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.3}{روش اجرای برنامه}{section.2.1}% 17
+\BOOKMARK [2][-]{subsection.2.1.4}{مراجع فارسی}{section.2.1}% 18
+\BOOKMARK [1][-]{section.2.2}{راهنمای واژه‌نامه}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.3}{ساخت نمایه}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.3.1}{ساخت نمایه}{section.2.3}% 21
+\BOOKMARK [0][-]{chapter.3}{اجزای مورد استفاده در سیستم ردیابی}{}% 22
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.2}{طراحی و معماری سیستم}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{اجزاء سیستم}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{اجزاء سخت‌افزاری}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{ماژول آردوینو}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.3}{ماژول SIM 808}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.4}{آنتن GPS}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.5}{آنتن GSM}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.6}{اجزاء نرم‌افزاری}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.7}{نرم‌افزار Arduino IDE}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.8}{google\040map}{section.3.3}% 33
+\BOOKMARK [1][-]{section.3.4}{رعایت قواعد نشانه‌گذاری}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.4.1}{ويرگول}{section.3.4}% 35
+\BOOKMARK [2][-]{subsection.3.4.2}{نقطه}{section.3.4}% 36
+\BOOKMARK [2][-]{subsection.3.4.3}{دونقطه}{section.3.4}% 37
+\BOOKMARK [2][-]{subsection.3.4.4}{گیومه}{section.3.4}% 38
+\BOOKMARK [2][-]{subsection.3.4.5}{نشانه پرسشی}{section.3.4}% 39
+\BOOKMARK [2][-]{subsection.3.4.6}{خط تیره}{section.3.4}% 40
+\BOOKMARK [2][-]{subsection.3.4.7}{پرانتز}{section.3.4}% 41
+\BOOKMARK [1][-]{section.3.5}{جدا یا سرهم نوشتن برخی کلمات}{chapter.3}% 42
+\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 43
+\BOOKMARK [1][-]{section.4.1}{برخورداری از غنای علمی }{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.2}{ارجاع به‌موقع و صحیح به منابع دیگر}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.3}{ساده‌نویسی }{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.4}{وحدت موضوع}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.5}{اختصار}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.6}{رعایت نكات دستوري و نشانه‌گذاري}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.7}{توجه به معلومات ذهنی مخاطب}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.8}{رعایت مراحل اصولی نگارش}{chapter.4}% 51
+\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 52
+\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 53
+\BOOKMARK [0][-]{appendix*.6}{منابع و مراجع}{}% 54
+\BOOKMARK [0][-]{appendix*.7}{پیوست}{}% 55
+\BOOKMARK [0][-]{appendix*.9}{واژه‌نامه‌ی فارسی به انگلیسی}{}% 56
+\BOOKMARK [0][-]{appendix*.10}{واژه‌نامه‌ی انگلیسی به فارسی}{}% 57

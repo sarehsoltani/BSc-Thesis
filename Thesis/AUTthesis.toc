@@ -5,57 +5,58 @@
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}% 
-\contentsline {section}{\numberline {1-1}معرفی سیستم ردیابی}{2}{section.1.1}% 
-\contentsline {section}{\numberline {1-2}این همه فایل؟!}{3}{section.1.2}% 
-\contentsline {section}{\numberline {1-3}از کجا شروع کنم ساره؟}{3}{section.1.3}% 
-\contentsline {section}{\numberline {1-4}مطالب پایان‌نامه را چطور بنویسم؟}{3}{section.1.4}% 
-\contentsline {subsection}{\numberline {1-4-1}نوشتن فصل‌ها}{3}{subsection.1.4.1}% 
-\contentsline {subsection}{\numberline {1-4-2}مراجع}{3}{subsection.1.4.2}% 
-\contentsline {subsection}{\numberline {1-4-3}واژه‌نامه فارسی به انگلیسی و برعکس}{3}{subsection.1.4.3}% 
-\contentsline {section}{\numberline {1-5}اگر سوالی داشتم، از کی بپرسم؟}{3}{section.1.5}% 
-\contentsline {chapter}{\numberline {2}اینترنت اشیا‌}{4}{chapter.2}% 
-\contentsline {section}{\numberline {2-1}طریقه‌ی مرجع نویسی}{5}{section.2.1}% 
-\contentsline {subsection}{\numberline {2-1-1}بارگیری مراجع}{5}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2-1-2}روش ارجاع در متن}{6}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2-1-3}روش اجرای برنامه}{7}{subsection.2.1.3}% 
-\contentsline {subsection}{\numberline {2-1-4}مراجع فارسی}{7}{subsection.2.1.4}% 
-\contentsline {section}{\numberline {2-2}راهنمای واژه‌نامه}{7}{section.2.2}% 
-\contentsline {section}{\numberline {2-3}ساخت نمایه}{8}{section.2.3}% 
-\contentsline {subsection}{\numberline {2-3-1}ساخت نمایه}{8}{subsection.2.3.1}% 
-\contentsline {chapter}{\numberline {3}اجزای مورد استفاده در سیستم ردیابی}{9}{chapter.3}% 
-\contentsline {section}{\numberline {3-1}مقدمه}{10}{section.3.1}% 
-\contentsline {section}{\numberline {3-2}طراحی و معماری سیستم}{10}{section.3.2}% 
-\contentsline {section}{\numberline {3-3}اجزاء سیستم}{12}{section.3.3}% 
-\contentsline {subsection}{\numberline {3-3-1}اجزاء سخت‌افزاری}{12}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3-3-2}ماژول آردوینو}{13}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3-3-3}ماژول \lr {SIM 808}}{14}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3-3-4}آنتن \lr {GPS}}{15}{subsection.3.3.4}% 
-\contentsline {subsection}{\numberline {3-3-5}آنتن \lr {GSM}}{16}{subsection.3.3.5}% 
-\contentsline {subsection}{\numberline {3-3-6}اجزاء نرم‌افزاری}{17}{subsection.3.3.6}% 
-\contentsline {subsection}{\numberline {3-3-7}نرم‌افزار \lr {Arduino IDE}}{17}{subsection.3.3.7}% 
-\contentsline {subsection}{\numberline {3-3-8}\lr {google map}}{19}{subsection.3.3.8}% 
-\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{19}{section.3.4}% 
-\contentsline {subsection}{\numberline {3-4-1}ويرگول}{19}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3-4-2}نقطه}{19}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3-4-3}دونقطه}{19}{subsection.3.4.3}% 
-\contentsline {subsection}{\numberline {3-4-4}گیومه}{20}{subsection.3.4.4}% 
-\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{20}{subsection.3.4.5}% 
-\contentsline {subsection}{\numberline {3-4-6}خط تیره}{20}{subsection.3.4.6}% 
-\contentsline {subsection}{\numberline {3-4-7}پرانتز}{20}{subsection.3.4.7}% 
-\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{21}{section.3.5}% 
-\contentsline {chapter}{\numberline {4}پیاده‌سازی}{23}{chapter.4}% 
-\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{24}{section.4.1}% 
-\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{24}{section.4.2}% 
-\contentsline {section}{\numberline {4-3}ساده‌نویسی }{24}{section.4.3}% 
-\contentsline {section}{\numberline {4-4}وحدت موضوع}{25}{section.4.4}% 
-\contentsline {section}{\numberline {4-5}اختصار}{25}{section.4.5}% 
-\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{25}{section.4.6}% 
-\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{25}{section.4.7}% 
-\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{25}{section.4.8}% 
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{27}{chapter.5}% 
-\contentsline {section}{\numberline {5-1}پیشنهادات}{28}{section.5.1}% 
-\contentsline {chapter}{منابع و مراجع}{29}{appendix*.6}% 
-\contentsline {chapter}{پیوست}{30}{appendix*.7}% 
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{31}{appendix*.9}% 
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{33}{appendix*.10}% 
+\contentsline {section}{\numberline {1-1}اینترنت اشیا}{2}{section.1.1}% 
+\contentsline {section}{\numberline {1-2}معرفی سیستم ردیابی}{3}{section.1.2}% 
+\contentsline {section}{\numberline {1-3}این همه فایل؟!}{4}{section.1.3}% 
+\contentsline {section}{\numberline {1-4}از کجا شروع کنم ساره؟}{4}{section.1.4}% 
+\contentsline {section}{\numberline {1-5}مطالب پایان‌نامه را چطور بنویسم؟}{4}{section.1.5}% 
+\contentsline {subsection}{\numberline {1-5-1}نوشتن فصل‌ها}{4}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1-5-2}مراجع}{4}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1-5-3}واژه‌نامه فارسی به انگلیسی و برعکس}{4}{subsection.1.5.3}% 
+\contentsline {section}{\numberline {1-6}اگر سوالی داشتم، از کی بپرسم؟}{4}{section.1.6}% 
+\contentsline {chapter}{\numberline {2}اینترنت اشیا‌}{5}{chapter.2}% 
+\contentsline {section}{\numberline {2-1}طریقه‌ی مرجع نویسی}{6}{section.2.1}% 
+\contentsline {subsection}{\numberline {2-1-1}بارگیری مراجع}{6}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2-1-2}روش ارجاع در متن}{7}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2-1-3}روش اجرای برنامه}{8}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2-1-4}مراجع فارسی}{8}{subsection.2.1.4}% 
+\contentsline {section}{\numberline {2-2}راهنمای واژه‌نامه}{8}{section.2.2}% 
+\contentsline {section}{\numberline {2-3}ساخت نمایه}{9}{section.2.3}% 
+\contentsline {subsection}{\numberline {2-3-1}ساخت نمایه}{9}{subsection.2.3.1}% 
+\contentsline {chapter}{\numberline {3}اجزای مورد استفاده در سیستم ردیابی}{10}{chapter.3}% 
+\contentsline {section}{\numberline {3-1}مقدمه}{11}{section.3.1}% 
+\contentsline {section}{\numberline {3-2}طراحی و معماری سیستم}{11}{section.3.2}% 
+\contentsline {section}{\numberline {3-3}اجزاء سیستم}{13}{section.3.3}% 
+\contentsline {subsection}{\numberline {3-3-1}اجزاء سخت‌افزاری}{13}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3-3-2}ماژول آردوینو}{14}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3-3-3}ماژول \lr {SIM 808}}{15}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3-3-4}آنتن \lr {GPS}}{16}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3-3-5}آنتن \lr {GSM}}{17}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3-3-6}اجزاء نرم‌افزاری}{18}{subsection.3.3.6}% 
+\contentsline {subsection}{\numberline {3-3-7}نرم‌افزار \lr {Arduino IDE}}{18}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3-3-8}\lr {google map}}{20}{subsection.3.3.8}% 
+\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{20}{section.3.4}% 
+\contentsline {subsection}{\numberline {3-4-1}ويرگول}{20}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3-4-2}نقطه}{20}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3-4-3}دونقطه}{20}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3-4-4}گیومه}{21}{subsection.3.4.4}% 
+\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{21}{subsection.3.4.5}% 
+\contentsline {subsection}{\numberline {3-4-6}خط تیره}{21}{subsection.3.4.6}% 
+\contentsline {subsection}{\numberline {3-4-7}پرانتز}{21}{subsection.3.4.7}% 
+\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{22}{section.3.5}% 
+\contentsline {chapter}{\numberline {4}پیاده‌سازی}{24}{chapter.4}% 
+\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{25}{section.4.1}% 
+\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{25}{section.4.2}% 
+\contentsline {section}{\numberline {4-3}ساده‌نویسی }{25}{section.4.3}% 
+\contentsline {section}{\numberline {4-4}وحدت موضوع}{26}{section.4.4}% 
+\contentsline {section}{\numberline {4-5}اختصار}{26}{section.4.5}% 
+\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{26}{section.4.6}% 
+\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{26}{section.4.7}% 
+\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{26}{section.4.8}% 
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{28}{chapter.5}% 
+\contentsline {section}{\numberline {5-1}پیشنهادات}{29}{section.5.1}% 
+\contentsline {chapter}{منابع و مراجع}{30}{appendix*.6}% 
+\contentsline {chapter}{پیوست}{31}{appendix*.7}% 
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{32}{appendix*.9}% 
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{34}{appendix*.10}% 
 \contentsfinish 
