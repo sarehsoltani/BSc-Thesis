@@ -7,22 +7,23 @@
 \BOOKMARK [1][-]{section.2.3}{اکوسیستم اینترنت اشیا}{chapter.2}% 7
 \BOOKMARK [2][-]{subsection.2.3.1}{اکوسیستم}{section.2.3}% 8
 \BOOKMARK [1][-]{section.2.4}{سیستم ردیابی}{chapter.2}% 9
-\BOOKMARK [0][-]{chapter.3}{اجزای مورد استفاده در سیستم ردیابی}{}% 10
-\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 11
-\BOOKMARK [1][-]{section.3.2}{طراحی و معماری سیستم}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.3}{اجزاء سیستم}{chapter.3}% 13
-\BOOKMARK [2][-]{subsection.3.3.1}{اجزاء سخت‌افزاری}{section.3.3}% 14
-\BOOKMARK [2][-]{subsection.3.3.2}{ماژول آردوینو}{section.3.3}% 15
-\BOOKMARK [2][-]{subsection.3.3.3}{ماژول SIM 808}{section.3.3}% 16
-\BOOKMARK [2][-]{subsection.3.3.4}{آنتن GPS}{section.3.3}% 17
-\BOOKMARK [2][-]{subsection.3.3.5}{آنتن GSM}{section.3.3}% 18
-\BOOKMARK [2][-]{subsection.3.3.6}{اجزاء نرم‌افزاری}{section.3.3}% 19
-\BOOKMARK [2][-]{subsection.3.3.7}{نرم‌افزار Arduino IDE}{section.3.3}% 20
-\BOOKMARK [2][-]{subsection.3.3.8}{google\040map}{section.3.3}% 21
-\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 22
-\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 23
-\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 24
-\BOOKMARK [0][-]{appendix*.6}{منابع و مراجع}{}% 25
-\BOOKMARK [0][-]{appendix*.7}{پیوست}{}% 26
-\BOOKMARK [0][-]{appendix*.9}{واژه‌نامه‌ی فارسی به انگلیسی}{}% 27
-\BOOKMARK [0][-]{appendix*.10}{واژه‌نامه‌ی انگلیسی به فارسی}{}% 28
+\BOOKMARK [1][-]{section.2.5}{GPS}{chapter.2}% 10
+\BOOKMARK [0][-]{chapter.3}{اجزای مورد استفاده در سیستم ردیابی}{}% 11
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.2}{طراحی و معماری سیستم}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.3}{اجزاء سیستم}{chapter.3}% 14
+\BOOKMARK [2][-]{subsection.3.3.1}{اجزاء سخت‌افزاری}{section.3.3}% 15
+\BOOKMARK [2][-]{subsection.3.3.2}{ماژول آردوینو}{section.3.3}% 16
+\BOOKMARK [2][-]{subsection.3.3.3}{ماژول SIM 808}{section.3.3}% 17
+\BOOKMARK [2][-]{subsection.3.3.4}{آنتن GPS}{section.3.3}% 18
+\BOOKMARK [2][-]{subsection.3.3.5}{آنتن GSM}{section.3.3}% 19
+\BOOKMARK [2][-]{subsection.3.3.6}{اجزاء نرم‌افزاری}{section.3.3}% 20
+\BOOKMARK [2][-]{subsection.3.3.7}{نرم‌افزار Arduino IDE}{section.3.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.8}{google\040map}{section.3.3}% 22
+\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 23
+\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 24
+\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 25
+\BOOKMARK [0][-]{appendix*.6}{منابع و مراجع}{}% 26
+\BOOKMARK [0][-]{appendix*.7}{پیوست}{}% 27
+\BOOKMARK [0][-]{appendix*.9}{واژه‌نامه‌ی فارسی به انگلیسی}{}% 28
+\BOOKMARK [0][-]{appendix*.10}{واژه‌نامه‌ی انگلیسی به فارسی}{}% 29
