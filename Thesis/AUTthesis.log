@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  14 MAY 2019 15:48
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  16 MAY 2019 12:59
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1372,13 +1372,13 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
  (AUTthesis.toc
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
 (Font)              scaled to size 13.20007pt on input line 7.
-)
+ [2
+
+])
 \tf@toc=\write5
 \openout5 = `AUTthesis.toc'.
 
- [2
-
-] [3] (AUTthesis.lof)
+ [3] (AUTthesis.lof)
 \tf@lof=\write6
 \openout6 = `AUTthesis.lof'.
 
@@ -1462,24 +1462,32 @@ LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
 ]
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
 (Font)              scaled to size 19.0081pt on input line 2.
- [7]) [8]
+ [7]
+LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
+(Font)              scaled to size 15.84007pt on input line 43.
+ [8] [9]
+Missing character: There is no G in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=persian-tex-text;!
+Missing character: There is no P in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=persian-tex-text;!
+Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
+;mapping=persian-tex-text;!
+) [10]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
 فصل 3.
-[9
+[11
 
 
 
-] [10]
+] [12]
 File: architecture.jpg Graphic file (type bmp)
 <architecture.jpg>
- [11]
+ [13]
 File: blockdiagram.jpg Graphic file (type bmp)
 <blockdiagram.jpg>
-LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 15.84007pt on input line 48.
- [12]
+ [14]
 File: ArduinoUno_R3.jpg Graphic file (type bmp)
 <ArduinoUno_R3.jpg>
 Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
@@ -1488,17 +1496,24 @@ Missing character: There is no M in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [13]
+ [15]
 File: frontside-sim808.jpg Graphic file (type bmp)
 <frontside-sim808.jpg>
 File: backside-sim808.jpg Graphic file (type bmp)
 <backside-sim808.jpg>
- [14]
+ [16]
+
+LaTeX Warning: Reference `footdir@41' on page 17 undefined on input line 112.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 111--114
 [][]
  []
 
-[15]
+
+LaTeX Warning: Reference `footdir@42' on page 17 undefined on input line 114.
+
+[17]
 File: gps-antanna.png Graphic file (type bmp)
 <gps-antanna.png>
 
@@ -1509,7 +1524,10 @@ File: table1.png Graphic file (type bmp)
 <table1.png>
 File: GSM-antenna.jpg Graphic file (type bmp)
 <GSM-antenna.jpg>
-[16]
+
+LaTeX Warning: Reference `footdir@43' on page 18 undefined on input line 135.
+
+[18]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1517,12 +1535,12 @@ Missing character: There is no ٰ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 File: arduino-ide.jpg Graphic file (type bmp)
 <arduino-ide.jpg>
-[17]) [18]
+[19]) [20]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 فصل 4.
-[19
+[21
 
 
 
@@ -1531,20 +1549,20 @@ File: arduino-ide.jpg Graphic file (type bmp)
 
  (chapter5.tex
 فصل 5.
-[20
+[22
 
 
 
-]) [21] (AUTthesis.bbl
+]) [23] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
-) [22
+ [24
 
 
-]
+]) [25]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [23
+ (appendix1.tex) [26
 
 
 ]
@@ -1555,7 +1573,8 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [24
+
+[27
 
 
 
@@ -1564,8 +1583,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
-
-[25])
+ [28])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1573,7 +1591,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [26
+ [29
 
 
 
@@ -1582,11 +1600,11 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
-) [27]
+) [30]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [28
+(en-abstract.tex) [31
 
 
 ] (en_title.tex)
@@ -1597,27 +1615,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: D4C23D9AB35E8A7563E5834EEF5F67AA.
 
 
-Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: 99F9641A385610AC25DC6C8934C28639
-(rerunfilecheck)             After:  4C04B2453E2AA111B4C0881DE2B9AA0F.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25919 strings out of 427748
- 486259 string characters out of 3147202
+ 25935 strings out of 427748
+ 486466 string characters out of 3147202
  630927 words of memory out of 3000000
- 29490 multiletter control sequences out of 15000+200000
+ 29506 multiletter control sequences out of 15000+200000
  541743 words of font info for 138 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,11n,69p,2696b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,11n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (40 pages).
+Output written on AUTthesis.pdf (43 pages).
