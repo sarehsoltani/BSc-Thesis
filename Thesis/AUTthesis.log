@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  16 MAY 2019 17:25
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  25 MAY 2019 15:07
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1485,22 +1485,22 @@ Missing character: There is no a in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no n in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
-) [12]
+ [12] [13] [14] [15]) [16]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
 فصل 3.
-[13
+[17
 
 
 
-] [14]
+] [18]
 File: architecture.jpg Graphic file (type bmp)
 <architecture.jpg>
- [15]
+ [19]
 File: blockdiagram.jpg Graphic file (type bmp)
 <blockdiagram.jpg>
- [16]
+ [20]
 File: ArduinoUno_R3.jpg Graphic file (type bmp)
 <ArduinoUno_R3.jpg>
 Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
@@ -1509,17 +1509,17 @@ Missing character: There is no M in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [17]
+ [21]
 File: frontside-sim808.jpg Graphic file (type bmp)
 <frontside-sim808.jpg>
 File: backside-sim808.jpg Graphic file (type bmp)
 <backside-sim808.jpg>
- [18]
+ [22]
 Underfull \hbox (badness 10000) in paragraph at lines 111--114
 [][]
  []
 
-[19]
+[23]
 File: gps-antanna.png Graphic file (type bmp)
 <gps-antanna.png>
 
@@ -1530,7 +1530,7 @@ File: table1.png Graphic file (type bmp)
 <table1.png>
 File: GSM-antenna.jpg Graphic file (type bmp)
 <GSM-antenna.jpg>
-[20]
+[24]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1538,12 +1538,12 @@ Missing character: There is no ٰ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 File: arduino-ide.jpg Graphic file (type bmp)
 <arduino-ide.jpg>
-[21]) [22]
+[25]) [26]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 فصل 4.
-[23
+[27
 
 
 
@@ -1552,20 +1552,20 @@ File: arduino-ide.jpg Graphic file (type bmp)
 
  (chapter5.tex
 فصل 5.
-[24
+[28
 
 
 
-]) [25] (AUTthesis.bbl
+]) [29] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
- [26
+ [30
 
 
-]) [27]
+]) [31]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [28
+ (appendix1.tex) [32
 
 
 ]
@@ -1577,7 +1577,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 
-[29
+[33
 
 
 
@@ -1586,7 +1586,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [30])
+ [34])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1594,7 +1594,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [31
+ [35
 
 
 
@@ -1603,11 +1603,11 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
-) [32]
+) [36]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [33
+(en-abstract.tex) [37
 
 
 ] (en_title.tex)
@@ -1619,16 +1619,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0E0BC0E4A4A94E2A43AC74EDB2BCD990.
+(rerunfilecheck)             Checksum: DEFC8B09CD47D173225177B9FBFD2130.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25944 strings out of 427748
- 486584 string characters out of 3147202
+ 25945 strings out of 427748
+ 486597 string characters out of 3147202
  630927 words of memory out of 3000000
- 29515 multiletter control sequences out of 15000+200000
+ 29516 multiletter control sequences out of 15000+200000
  541743 words of font info for 138 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,11n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (45 pages).
+Output written on AUTthesis.pdf (49 pages).
