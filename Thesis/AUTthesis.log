@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  25 MAY 2019 15:16
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  25 MAY 2019 15:49
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1547,25 +1547,25 @@ File: arduino-ide.jpg Graphic file (type bmp)
 
 
 
-])
+]) [29]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[29
+[30
 
 
 
-]) [30] (AUTthesis.bbl
+]) [31] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
- [31
+ [32
 
 
-]) [32]
+]) [33]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [33
+ (appendix1.tex) [34
 
 
 ]
@@ -1577,7 +1577,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 
-[34
+[35
 
 
 
@@ -1586,7 +1586,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [35])
+ [36])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1594,7 +1594,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [36
+ [37
 
 
 
@@ -1603,11 +1603,11 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
-) [37]
+) [38]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [38
+(en-abstract.tex) [39
 
 
 ] (en_title.tex)
@@ -1631,4 +1631,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  48i,11n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (50 pages).
+Output written on AUTthesis.pdf (51 pages).
