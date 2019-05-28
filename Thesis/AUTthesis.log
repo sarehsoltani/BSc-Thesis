@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  25 MAY 2019 17:43
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  28 MAY 2019 11:26
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1550,25 +1550,34 @@ File: arduino-ide.jpg Graphic file (type bmp)
 ]
 File: design-system.png Graphic file (type bmp)
 <design-system.png>
-) [29]
+ [29]
+File: design-system.png Graphic file (type bmp)
+<design-system.png>
+File: design-system.png Graphic file (type bmp)
+<design-system.png>
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30] [31]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[30
+[32
 
 
 
-]) [31] (AUTthesis.bbl
+]) [33] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
- [32
+ [34
 
 
-]) [33]
+]) [35]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [34
+ (appendix1.tex) [36
 
 
 ]
@@ -1580,7 +1589,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 
-[35
+[37
 
 
 
@@ -1589,7 +1598,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [36])
+ [38])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1597,7 +1606,7 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [37
+ [39
 
 
 
@@ -1606,11 +1615,11 @@ Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
-) [38]
+) [40]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [39
+(en-abstract.tex) [41
 
 
 ] (en_title.tex)
@@ -1622,16 +1631,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: ED7208887CDACB908082D51A3FCB4941.
+(rerunfilecheck)             Checksum: FE65E96FEECD1E8AF049BBF094C561AC.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25949 strings out of 427748
- 486678 string characters out of 3147202
+ 25951 strings out of 427748
+ 486702 string characters out of 3147202
  632927 words of memory out of 3000000
- 29519 multiletter control sequences out of 15000+200000
+ 29521 multiletter control sequences out of 15000+200000
  541743 words of font info for 138 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,11n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (51 pages).
+Output written on AUTthesis.pdf (53 pages).
