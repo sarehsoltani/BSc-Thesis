@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  28 MAY 2019 12:52
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  28 MAY 2019 15:24
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1551,8 +1551,8 @@ File: arduino-ide.jpg Graphic file (type bmp)
 File: design-system.png Graphic file (type bmp)
 <design-system.png>
  [29]
-File: gps-flowchart.png Graphic file (type bmp)
-<gps-flowchart.png>
+File: tracking-flowchart.png Graphic file (type bmp)
+<tracking-flowchart.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1571,8 +1571,8 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-File: design-system.png Graphic file (type bmp)
-<design-system.png>
+File: gps-flowchart.png Graphic file (type bmp)
+<gps-flowchart.png>
 )
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1653,12 +1653,12 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25955 strings out of 427748
- 486783 string characters out of 3147202
+ 25962 strings out of 427748
+ 486915 string characters out of 3147202
  632927 words of memory out of 3000000
- 29524 multiletter control sequences out of 15000+200000
+ 29530 multiletter control sequences out of 15000+200000
  541743 words of font info for 138 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,11n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,11n,69p,2696b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on AUTthesis.pdf (54 pages).
