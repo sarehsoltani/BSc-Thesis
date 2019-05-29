@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  29 MAY 2019 22:37
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  29 MAY 2019 23:09
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1427,12 +1427,12 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 8.39998pt on input line 2.
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
 (Font)              scaled to size 7.70004pt on input line 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
+ [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
 [][]
  []
 
-[2] [3] [4]) [5]
+[4]) [5]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
