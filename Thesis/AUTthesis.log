@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  29 MAY 2019 17:25
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  29 MAY 2019 17:29
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1379,11 +1379,7 @@ LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
 \tf@toc=\write5
 \openout5 = `AUTthesis.toc'.
 
- [3] (AUTthesis.lof
-
-LaTeX Warning: Citation `interface' on page د undefined on input line 21.
-
-)
+ [3] (AUTthesis.lof)
 \tf@lof=\write6
 \openout6 = `AUTthesis.lof'.
 
@@ -1550,11 +1546,7 @@ File: php-flowchart.png Graphic file (type bmp)
 <php-flowchart.png>
 File: sim808-arduino.jpeg Graphic file (type bmp)
 <sim808-arduino.jpeg>
-
-
-LaTeX Warning: Citation `interface' on page 32 undefined on input line 63.
-
-[32]) [33]
+ [32]) [33]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
@@ -1566,7 +1558,13 @@ LaTeX Warning: Citation `interface' on page 32 undefined on input line 63.
 ]) [35] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
- [36
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[][][][][]\TU/TimesNewRoman(0)/m/n/12 https://maker.pro/arduino/projects/build-
+a-car-tracking-system-with-the-sim808-[][]
+ []
+
+[36
 
 
 ]) [37]
@@ -1592,17 +1590,13 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 (rerunfilecheck)             Checksum: 242755908D13583A61A9E690EBEA5C32.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25933 strings out of 427748
- 486472 string characters out of 3147202
+ 25934 strings out of 427748
+ 486483 string characters out of 3147202
  632927 words of memory out of 3000000
- 29523 multiletter control sequences out of 15000+200000
+ 29524 multiletter control sequences out of 15000+200000
  540311 words of font info for 130 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,11n,69p,2696b,450s stack positions out of 5000i,500n,10000p,200000b,50000s

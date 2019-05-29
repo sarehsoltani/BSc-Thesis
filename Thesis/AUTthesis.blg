@@ -6,11 +6,11 @@ A level-1 auxiliary file: chapter4.aux
 A level-1 auxiliary file: chapter5.aux
 The style file: plain-fa.bst
 A level-1 auxiliary file: appendix1.aux
-A level-1 auxiliary file: dicfa2en.aux
-A level-1 auxiliary file: dicen2fa.aux
 A level-1 auxiliary file: en-abstract.aux
 Database file #1: references.bib
+Warning--to sort, need author or key in interface
 -- plain-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
+(There was 1 warning)
