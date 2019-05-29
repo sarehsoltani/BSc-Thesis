@@ -1,23 +1,25 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces سیر تکامل ارتباطات موجودیت‌های جهان \cite {connection}}}{8}{figure.2.1}% 
+\contentsline {figure}{\numberline {2-2}{\ignorespaces معماری اینترنت اشیا \cite {iot-arc}}}{10}{figure.2.2}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces بلاک دیاگرام سیستم ردیابی}}{20}{figure.3.1}% 
-\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری سیستم ردیابی پیشنهادی}}{21}{figure.3.2}% 
-\contentsline {figure}{\numberline {3-3}{\ignorespaces برد آردوینو \lr {UNO R3}}}{22}{figure.3.3}% 
-\contentsline {figure}{\numberline {3-4}{\ignorespaces نمایی از قسمت روبرو تراشه \lr {SIM 808}}}{24}{figure.3.4}% 
-\contentsline {figure}{\numberline {3-5}{\ignorespaces نمایی از قسمت پشت تراشه \lr {SIM 808}}}{24}{figure.3.5}% 
-\contentsline {figure}{\numberline {3-6}{\ignorespaces آنتن \lr {GPS}}}{26}{figure.3.6}% 
-\contentsline {figure}{\numberline {3-7}{\ignorespaces مشخصات آنتن \lr {GSM}}}{26}{figure.3.7}% 
-\contentsline {figure}{\numberline {3-8}{\ignorespaces آنتن \lr {GSM}}}{27}{figure.3.8}% 
-\contentsline {figure}{\numberline {3-9}{\ignorespaces نمایی از نرم‌افزار آردوینو}}{27}{figure.3.9}% 
+\contentsline {figure}{\numberline {3-1}{\ignorespaces بلاک دیاگرام سیستم ردیابی}}{22}{figure.3.1}% 
+\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری سیستم ردیابی پیشنهادی}}{23}{figure.3.2}% 
+\contentsline {figure}{\numberline {3-3}{\ignorespaces برد آردوینو \lr {UNO R3}}}{24}{figure.3.3}% 
+\contentsline {figure}{\numberline {3-4}{\ignorespaces نمایی از قسمت روبرو تراشه \lr {SIM 808}}}{26}{figure.3.4}% 
+\contentsline {figure}{\numberline {3-5}{\ignorespaces نمایی از قسمت پشت تراشه \lr {SIM 808}}}{26}{figure.3.5}% 
+\contentsline {figure}{\numberline {3-6}{\ignorespaces آنتن \lr {GPS}}}{28}{figure.3.6}% 
+\contentsline {figure}{\numberline {3-7}{\ignorespaces مشخصات آنتن \lr {GSM}}}{28}{figure.3.7}% 
+\contentsline {figure}{\numberline {3-8}{\ignorespaces آنتن \lr {GSM}}}{29}{figure.3.8}% 
+\contentsline {figure}{\numberline {3-9}{\ignorespaces نمایی از نرم‌افزار آردوینو}}{29}{figure.3.9}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces سیستم ردیابی طراحی شده}}{29}{figure.4.1}% 
-\contentsline {figure}{\numberline {4-2}{\ignorespaces عملکرد کد پیاده‌سازی شده بر روی آردوینو \cite {Rahman2016,Alshamsi,Hazza}}}{30}{figure.4.2}% 
-\contentsline {figure}{\numberline {4-3}{\ignorespaces فلوچارت خواندن اطلاعات \lr {GPS} \cite {ElShafee2013}}}{31}{figure.4.3}% 
-\contentsline {figure}{\numberline {4-4}{\ignorespaces فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{31}{figure.4.4}% 
-\contentsline {figure}{\numberline {4-5}{\ignorespaces ادامه فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{32}{figure.4.5}% 
-\contentsline {figure}{\numberline {4-6}{\ignorespaces فلوچارت فایل \lr {PHP} \cite {ElShafee2013}}}{32}{figure.4.6}% 
-\contentsline {figure}{\numberline {4-7}{\ignorespaces شیوه اتصال آردوینو به ماژول \lr {SIM808}\cite {interface}}}{33}{figure.4.7}% 
+\contentsline {figure}{\numberline {4-1}{\ignorespaces سیستم ردیابی طراحی شده}}{31}{figure.4.1}% 
+\contentsline {figure}{\numberline {4-2}{\ignorespaces عملکرد کد پیاده‌سازی شده بر روی آردوینو \cite {Rahman2016,Alshamsi,Hazza}}}{32}{figure.4.2}% 
+\contentsline {figure}{\numberline {4-3}{\ignorespaces فلوچارت خواندن اطلاعات \lr {GPS} \cite {ElShafee2013}}}{33}{figure.4.3}% 
+\contentsline {figure}{\numberline {4-4}{\ignorespaces فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{33}{figure.4.4}% 
+\contentsline {figure}{\numberline {4-5}{\ignorespaces ادامه فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{34}{figure.4.5}% 
+\contentsline {figure}{\numberline {4-6}{\ignorespaces فلوچارت فایل \lr {PHP} \cite {ElShafee2013}}}{34}{figure.4.6}% 
+\contentsline {figure}{\numberline {4-7}{\ignorespaces شیوه اتصال آردوینو به ماژول \lr {SIM808}\cite {interface}}}{35}{figure.4.7}% 
 \addvspace {10\p@ }
 \contentsfinish 

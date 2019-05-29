@@ -8,9 +8,11 @@ The style file: plain-fa.bst
 A level-1 auxiliary file: appendix1.aux
 A level-1 auxiliary file: en-abstract.aux
 Database file #1: references.bib
+Warning--to sort, need author or key in connection
+Warning--to sort, need author or key in iot-arc
 Warning--to sort, need author or key in interface
 -- plain-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-(There was 1 warning)
+(There were 3 warnings)

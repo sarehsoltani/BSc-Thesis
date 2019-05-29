@@ -5,6 +5,20 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{connection}
+\href{https://www.commsbusiness.co.uk/features/what-are-the-internet-of-things-and-m2m/}{https://www.commsbusiness.co.uk/features/what-are-the-internet-of-things-and-m2m/}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{iot-arc}
+\href{https://www.slideshare.net/sumitcan/iot-architecture}{https://www.slideshare.net/sumitcan/iot-architecture}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{interface}
 \href{https://maker.pro/arduino/projects/build-a-car-tracking-system-with-the-sim808-module}{https://maker.pro/arduino/projects/build-a-car-tracking-system-with-the-sim808-module}.
 
@@ -58,6 +72,15 @@ Humaid~Alshamsi, Veton~Këpuska, Hazza~Alshamsi.
 \newblock Real time vehicle tracking using arduino mega.
 \newblock {\em International Journal of Science and Technology}, 5, December
   2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Madakam2015}
+Madakam, Somayya, Ramaswamy, R., and Tripathi, Siddharth.
+\newblock Internet of things ({IoT}): A literature review.
+\newblock {\em Journal of Computer and Communications}, 03(05), 2015.
 
 \end{LTRbibitems}
 

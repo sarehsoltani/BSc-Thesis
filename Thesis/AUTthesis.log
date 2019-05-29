@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  29 MAY 2019 23:09
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  30 MAY 2019 02:33
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1444,17 +1444,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--38
 ]
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
 (Font)              scaled to size 19.0081pt on input line 2.
- [7]
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 15.84007pt on input line 43.
- [8] [9]
+(Font)              scaled to size 15.84007pt on input line 16.
+File: iot-m2m.png Graphic file (type bmp)
+<iot-m2m.png>
+ [7] [8] [9]
+File: iot-arc.jpg Graphic file (type bmp)
+<iot-arc.jpg>
+ [10]
 Missing character: There is no G in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no P in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [10] [11]
+ [11] [12]
 Missing character: There is no D in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no r in font B Nazanin/OT:script=arab;language=DFLT
@@ -1467,22 +1471,23 @@ Missing character: There is no a in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no n in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [12] [13] [14] [15] [16]) [17]
+ [13] [14] [15] [16] [17] [18]) [19]
 \openout2 = `chapter3.aux'.
 
- (chapter3.tex
+
+(chapter3.tex
 فصل 3.
-[18
+[20
 
 
 
-] [19]
+] [21]
 File: architecture.jpg Graphic file (type bmp)
 <architecture.jpg>
- [20]
+ [22]
 File: blockdiagram.jpg Graphic file (type bmp)
 <blockdiagram.jpg>
- [21]
+ [23]
 File: ArduinoUno_R3.jpg Graphic file (type bmp)
 <ArduinoUno_R3.jpg>
 Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
@@ -1491,17 +1496,17 @@ Missing character: There is no M in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [22]
+ [24]
 File: frontside-sim808.jpg Graphic file (type bmp)
 <frontside-sim808.jpg>
 File: backside-sim808.jpg Graphic file (type bmp)
 <backside-sim808.jpg>
- [23]
+ [25]
 Underfull \hbox (badness 10000) in paragraph at lines 111--114
 [][]
  []
 
-[24]
+[26]
 File: gps-antanna.png Graphic file (type bmp)
 <gps-antanna.png>
 
@@ -1512,7 +1517,7 @@ File: table1.png Graphic file (type bmp)
 <table1.png>
 File: GSM-antenna.jpg Graphic file (type bmp)
 <GSM-antenna.jpg>
-[25]
+[27]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1520,24 +1525,24 @@ Missing character: There is no ٰ in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 File: arduino-ide.jpg Graphic file (type bmp)
 <arduino-ide.jpg>
-[26]) [27]
+[28]) [29]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 فصل 4.
-[28
+[30
 
 
 
 ]
 File: design-system.png Graphic file (type bmp)
 <design-system.png>
- [29]
+ [31]
 File: tracking-flowchart.png Graphic file (type bmp)
 <tracking-flowchart.png>
 File: gps-flowchart.png Graphic file (type bmp)
 <gps-flowchart.png>
- [30]
+ [32]
 File: gsm-flowchart.jpeg Graphic file (type bmp)
 <gsm-flowchart.jpeg>
 File: continue-gsm.png Graphic file (type bmp)
@@ -1546,43 +1551,43 @@ File: continue-gsm.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[31]
+[33]
 File: php-flowchart.png Graphic file (type bmp)
 <php-flowchart.png>
 File: sim808-arduino.jpeg Graphic file (type bmp)
 <sim808-arduino.jpeg>
- [32]) [33]
+ [34]) [35]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[34
+[36
 
 
 
-]) [35] (AUTthesis.bbl
+]) [37] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 [][][][][]\TU/TimesNewRoman(0)/m/n/12 https://maker.pro/arduino/projects/build-
 a-car-tracking-system-with-the-sim808-[][]
  []
 
-[36
+[38
 
 
-]) [37]
+]) [39]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [38
+ (appendix1.tex) [40
 
 
 ]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [39
+(en-abstract.tex) [41
 
 
 ] (en_title.tex)
@@ -1594,16 +1599,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: F9C6AA7377BD7AEA6CE196323BD4E7F5.
+(rerunfilecheck)             Checksum: FBB71EBB82604E0FB6C42322BA0112B7.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25935 strings out of 427748
- 486496 string characters out of 3147202
- 632938 words of memory out of 3000000
- 29525 multiletter control sequences out of 15000+200000
+ 25947 strings out of 427748
+ 486658 string characters out of 3147202
+ 629938 words of memory out of 3000000
+ 29535 multiletter control sequences out of 15000+200000
  540311 words of font info for 130 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,11n,69p,2696b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,12n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (49 pages).
+Output written on AUTthesis.pdf (51 pages).
