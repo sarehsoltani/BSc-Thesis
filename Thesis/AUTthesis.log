@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  30 MAY 2019 02:33
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  30 MAY 2019 02:59
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1451,14 +1451,21 @@ File: iot-m2m.png Graphic file (type bmp)
  [7] [8] [9]
 File: iot-arc.jpg Graphic file (type bmp)
 <iot-arc.jpg>
- [10]
-Missing character: There is no G in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=persian-tex-text;!
-Missing character: There is no P in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=persian-tex-text;!
-Missing character: There is no S in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=persian-tex-text;!
- [11] [12]
+ [10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 108--112
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--112
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--112
+[][]
+ []
+
 Missing character: There is no D in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no r in font B Nazanin/OT:script=arab;language=DFLT
@@ -1471,11 +1478,10 @@ Missing character: There is no a in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
 Missing character: There is no n in font B Nazanin/OT:script=arab;language=DFLT
 ;mapping=persian-tex-text;!
- [13] [14] [15] [16] [17] [18]) [19]
+[13] [14] [15] [16] [17] [18]) [19]
 \openout2 = `chapter3.aux'.
 
-
-(chapter3.tex
+ (chapter3.tex
 فصل 3.
 [20
 
@@ -1599,20 +1605,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: FBB71EBB82604E0FB6C42322BA0112B7.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: B8BEACDC533F8A72D619FA94B7AE2C33.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25947 strings out of 427748
- 486658 string characters out of 3147202
- 629938 words of memory out of 3000000
- 29535 multiletter control sequences out of 15000+200000
+ 25948 strings out of 427748
+ 486668 string characters out of 3147202
+ 630938 words of memory out of 3000000
+ 29536 multiletter control sequences out of 15000+200000
  540311 words of font info for 130 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,12n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,11n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on AUTthesis.pdf (51 pages).
