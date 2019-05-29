@@ -13,7 +13,11 @@
 \contentsline {figure}{\numberline {3-9}{\ignorespaces نمایی از نرم‌افزار آردوینو}}{27}{figure.3.9}% 
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4-1}{\ignorespaces سیستم ردیابی طراحی شده}}{29}{figure.4.1}% 
-\contentsline {figure}{\numberline {4-2}{\ignorespaces عملکرد کد پیاده‌سازی شده بر روی آردوینو \cite {Rahman2016,Alshamsi,Hazza}}}{31}{figure.4.2}% 
-\contentsline {figure}{\numberline {4-3}{\ignorespaces فلوچارت خواندن اطلاعات \lr {GPS} \cite {ElShafee2013}}}{32}{figure.4.3}% 
+\contentsline {figure}{\numberline {4-2}{\ignorespaces عملکرد کد پیاده‌سازی شده بر روی آردوینو \cite {Rahman2016,Alshamsi,Hazza}}}{30}{figure.4.2}% 
+\contentsline {figure}{\numberline {4-3}{\ignorespaces فلوچارت خواندن اطلاعات \lr {GPS} \cite {ElShafee2013}}}{31}{figure.4.3}% 
+\contentsline {figure}{\numberline {4-4}{\ignorespaces فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{31}{figure.4.4}% 
+\contentsline {figure}{\numberline {4-5}{\ignorespaces ادامه فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{32}{figure.4.5}% 
+\contentsline {figure}{\numberline {4-6}{\ignorespaces فلوچارت فایل \lr {PHP} \cite {ElShafee2013}}}{32}{figure.4.6}% 
+\contentsline {figure}{\numberline {4-7}{\ignorespaces شیوه اتصال آردوینو به ماژول \lr {SIM808}\cite {interface}}}{33}{figure.4.7}% 
 \addvspace {10\p@ }
 \contentsfinish 
