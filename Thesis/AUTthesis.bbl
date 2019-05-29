@@ -104,6 +104,17 @@ Rahman, Md.~Marufi, Mou, Jannatul~Robaiat, Tara, Kusum, and Sarkar, Md.~Ismail.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Saranya2013}
+Saranya, J. and Selvakumar, J.
+\newblock Implementation of children tracking system on android mobile
+  terminals.
+\newblock  in {\em 2013 International Conference on Communication and Signal
+  Processing}. {IEEE}, April 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Shah2016}
 Shah, Sajjad~Hussain and Yaqoob, Ilyas.
 \newblock A survey: Internet of things ({IOT}) technologies, applications and
