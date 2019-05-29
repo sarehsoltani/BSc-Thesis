@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  29 MAY 2019 17:29
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  29 MAY 2019 19:04
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1272,23 +1272,23 @@ LaTeX Info: Redefining \nameref on input line 32.
 File: fa-logo.png Graphic file (type bmp)
 <fa-logo.png>
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 14.39996pt on input line 47.
+(Font)              scaled to size 14.39996pt on input line 50.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 19.19995pt on input line 47.
+(Font)              scaled to size 19.19995pt on input line 50.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 16.79996pt on input line 47.
+(Font)              scaled to size 16.79996pt on input line 50.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 19.19995pt on input line 47.
+(Font)              scaled to size 19.19995pt on input line 50.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 23.99994pt on input line 47.
+(Font)              scaled to size 23.99994pt on input line 50.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 23.99994pt on input line 47.
+(Font)              scaled to size 23.99994pt on input line 50.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 21.59995pt on input line 47.
+(Font)              scaled to size 21.59995pt on input line 50.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
-(Font)              scaled to size 21.59995pt on input line 47.
+(Font)              scaled to size 21.59995pt on input line 50.
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 17.6001pt on input line 47.
+(Font)              scaled to size 17.6001pt on input line 50.
 
 ("C:\Users\Sare\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\se-ascii
 -print.def"
@@ -1589,13 +1589,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 242755908D13583A61A9E690EBEA5C32.
+(rerunfilecheck)             Checksum: F9C6AA7377BD7AEA6CE196323BD4E7F5.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
  25934 strings out of 427748
  486483 string characters out of 3147202
- 632927 words of memory out of 3000000
+ 632938 words of memory out of 3000000
  29524 multiletter control sequences out of 15000+200000
  540311 words of font info for 130 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191

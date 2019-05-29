@@ -195,6 +195,7 @@
 
 \def\titlepage{\newpage\centering
   \thispagestyle{empty}
+  \setlength{\parindent}{20pt}
   \parindent 5pt \parskip 10pt plus 1fil minus 1fil
   \def\baselinestretch{1}\@normalsize\vbox to \vsize\bgroup\vbox to 9in\bgroup}
 \def\endtitlepage{\par\kern 0pt\egroup\vss\egroup\newpage}
