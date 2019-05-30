@@ -77,10 +77,32 @@ Humaid~Alshamsi, Veton~Këpuska, Hazza~Alshamsi.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{gps}
+Koyuncu, Baki and Özdemir, Zeynep.
+\newblock Real time position detection by using gps+gsm+gprs and arduino mega
+  based telit gl865.
+\newblock {\em International Journal of Electronics Communication and Computer
+  Engineering}, 7:2278--4209, 01 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Madakam2015}
 Madakam, Somayya, Ramaswamy, R., and Tripathi, Siddharth.
 \newblock Internet of things ({IoT}): A literature review.
 \newblock {\em Journal of Computer and Communications}, 03(05), 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Mahamulkar2017}
+Mahamulkar, Snehal~Uttam and Yawale, Prof. R.~U.
+\newblock Design and development of vehicle tracking and monitoring system.
+\newblock  in {\em 2017 International Conference on Current Trends in Computer,
+  Electrical, Electronics and Communication ({CTCEEC})}. {IEEE}, September
+  2017.
 
 \end{LTRbibitems}
 

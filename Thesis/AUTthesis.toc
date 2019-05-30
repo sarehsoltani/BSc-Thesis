@@ -11,7 +11,7 @@
 \contentsline {subsection}{\numberline {2-1-3}معماری فنی اینترنت اشیا}{10}{subsection.2.1.3}% 
 \contentsline {subsection}{\numberline {2-1-4}کاربردها}{10}{subsection.2.1.4}% 
 \contentsline {section}{\numberline {2-2}سیستم ردیابی}{11}{section.2.2}% 
-\contentsline {section}{\numberline {2-3}تکنولوژی جی پی اس}{14}{section.2.3}% 
+\contentsline {section}{\numberline {2-3}سامانه موقعیت‌یاب جهانی}{14}{section.2.3}% 
 \contentsline {subsection}{\numberline {2-3-1}تاریخچه}{15}{subsection.2.3.1}% 
 \contentsline {subsection}{\numberline {2-3-2}ساختار جی‌پی‌اس}{15}{subsection.2.3.2}% 
 \contentsline {subsection}{\numberline {2-3-3}بخش فضایی}{16}{subsection.2.3.3}% 
@@ -23,9 +23,9 @@
 \contentsline {section}{\numberline {3-2}طراحی و معماری سیستم}{21}{section.3.2}% 
 \contentsline {section}{\numberline {3-3}اجزاء سیستم}{23}{section.3.3}% 
 \contentsline {subsection}{\numberline {3-3-1}اجزاء سخت‌افزاری}{23}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3-3-2}ماژول آردوینو}{24}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3-3-3}ماژول \lr {SIM 808}}{25}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3-3-4}آنتن \lr {GPS}}{26}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3-3-2}ماژول آردوینو}{23}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3-3-3}ماژول \lr {SIM 808}}{24}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3-3-4}آنتن \lr {GPS}}{25}{subsection.3.3.4}% 
 \contentsline {subsection}{\numberline {3-3-5}آنتن \lr {GSM}}{27}{subsection.3.3.5}% 
 \contentsline {subsection}{\numberline {3-3-6}اجزاء نرم‌افزاری}{28}{subsection.3.3.6}% 
 \contentsline {subsection}{\numberline {3-3-7}نرم‌افزار \lr {Arduino IDE}}{28}{subsection.3.3.7}% 
@@ -38,5 +38,5 @@
 \contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{36}{chapter.5}% 
 \contentsline {section}{\numberline {5-1}پیشنهادات}{37}{section.5.1}% 
 \contentsline {chapter}{منابع و مراجع}{38}{appendix*.5}% 
-\contentsline {chapter}{پیوست}{40}{appendix*.6}% 
+\contentsline {chapter}{پیوست}{41}{appendix*.6}% 
 \contentsfinish 
