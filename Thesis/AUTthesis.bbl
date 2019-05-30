@@ -119,6 +119,17 @@ Mangla, Neha, Sivananda, G, Kashyap, Aishwarya, and Vinutha.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Mohamad2016}
+Mohamad, Omar~Abdulwahabe, Hameed, Rasha~Talal, and Tapus, Nicolae.
+\newblock Design and implementation of real time tracking system based on
+  arduino intel galileo.
+\newblock  in {\em 2016 8th International Conference on Electronics, Computers
+  and Artificial Intelligence ({ECAI})}. {IEEE}, June 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Mukhtar2015}
 Mukhtar, Mashood.
 \newblock {GPS} based advanced vehicle tracking and vehicle control system.
