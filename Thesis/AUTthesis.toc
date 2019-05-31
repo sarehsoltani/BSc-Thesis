@@ -25,11 +25,11 @@
 \contentsline {subsection}{\numberline {3-3-1}اجزاء سخت‌افزاری}{23}{subsection.3.3.1}% 
 \contentsline {subsubsection}{\numberline {3-3-1-1}ماژول آردوینو}{23}{subsubsection.3.3.1.1}% 
 \contentsline {subsubsection}{\numberline {3-3-1-2}ماژول سیم ۸۰۸}{25}{subsubsection.3.3.1.2}% 
-\contentsline {subsubsection}{\numberline {3-3-1-3}آنتن \lr {GPS}}{27}{subsubsection.3.3.1.3}% 
-\contentsline {subsection}{\numberline {3-3-2}آنتن \lr {GSM}}{28}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3-3-3}اجزاء نرم‌افزاری}{29}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3-3-4}نرم‌افزار \lr {Arduino IDE}}{29}{subsection.3.3.4}% 
-\contentsline {subsection}{\numberline {3-3-5}\lr {google map}}{30}{subsection.3.3.5}% 
+\contentsline {subsubsection}{\numberline {3-3-1-3}آنتن جی‌پی‌اس}{27}{subsubsection.3.3.1.3}% 
+\contentsline {subsubsection}{\numberline {3-3-1-4}آنتن جی‌اس‌ام}{28}{subsubsection.3.3.1.4}% 
+\contentsline {subsection}{\numberline {3-3-2}اجزاء نرم‌افزاری}{29}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3-3-3}نرم‌افزار \lr {Arduino IDE}}{29}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3-3-4}\lr {google map}}{30}{subsection.3.3.4}% 
 \contentsline {chapter}{\numberline {4}پیاده‌سازی}{31}{chapter.4}% 
 \contentsline {section}{\numberline {4-1}بررسی عملکرد سیستم ردیابی}{33}{section.4.1}% 
 \contentsline {subsection}{\numberline {4-1-1}بررسی عملکرد مدار}{33}{subsection.4.1.1}% 
