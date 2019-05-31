@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  31 MAY 2019 15:14
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  31 MAY 2019 15:36
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1549,14 +1549,10 @@ File: continue-gsm.png Graphic file (type bmp)
 <continue-gsm.png>
 File: php-flowchart.png Graphic file (type bmp)
 <php-flowchart.png>
- [37]
+ [37] [38]
 File: sim808-arduino.jpeg Graphic file (type bmp)
 <sim808-arduino.jpeg>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[38]) [39]
+) [39]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
