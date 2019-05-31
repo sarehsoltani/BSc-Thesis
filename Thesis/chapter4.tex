@@ -27,27 +27,29 @@
 	\includegraphics[width=.4\textwidth]{tracking-flowchart}
 	\caption{عملکرد کد پیاده‌سازی شده بر روی آردوینو \cite{Rahman2016,Alshamsi,Hazza}}
 \end{figure}
-\\
+
 
 
 در ابتدای کار برای تست سیستم طراحی شده، آنتن جی‌پی‌اس به ماژول سیم ۸۰۸ متصل می‌شود تا موقعیت مکانی (طول و عرض جغرافیایی) شی را از ماهواره دریافت کند. برای انجام این کار از نرم‌افزار \lr{Arduino IDE} برای پروگرم کردن کد نوشته شده بر روی برد آردوینو استفاده می‌شود.\\
 \\
 در فلوچارت شکل ۴-۳ نحوه کار جی‌پی‌اس نشان داده شده است.
 \begin{figure}[!h]
-	\centerline{\includegraphics[width=.3\textwidth]{gps-flowchart}}
+	\centerline{\includegraphics[width=.6\textwidth]{gps-flowchart}}
 	\caption{فلوچارت خواندن اطلاعات \lr{GPS} \cite{ElShafee2013}}
 \end{figure}
-
-
-برای ارسال موقعیت مکانی شی به کاربر از طریق شبکه جی‌اس‌ام از ماژول سیم ۸۰۸ و میکروکنترلر آردوینو متصل به آن استفاده می‌شود. برای ارتباط ماژول سیم ۸۰۸ با شبکه جی‌اس‌ام از دستورات \lr{AT} برای برنامه‌نویسی و کنترل آن استفاده می‌کنیم.
 \\
-در فلوچارت شکل ۴-۴ نحوه کار \lr{GSM} نشان داده شده است.
+
+برای ارسال موقعیت مکانی شی به کاربر از طریق شبکه جی‌اس‌ام از ماژول سیم ۸۰۸ و میکروکنترلر آردوینو متصل به آن استفاده می‌شود. برای ارتباط ماژول سیم ۸۰۸ با شبکه جی‌اس‌ام از دستورات \lr{AT} برای برنامه‌نویسی و کنترل آن استفاده می‌کنیم.\\
+
+\newpage
+در فلوچارت شکل ۴-۴ نحوه کار جی‌اس‌ام نشان داده شده است.\\
 \begin{figure}[!h]
-	\centerline{\includegraphics[width=.3\textwidth]{gsm-flowchart}}
+	\centerline{\includegraphics[width=.6\textwidth]{gsm-flowchart}}
 	\caption{فلوچارت نحوه کار \lr{GSM} \cite{ElShafee2013}}
 \end{figure}
+\newpage
 \begin{figure}[!h]
-	\centerline{\includegraphics[width=.4\textwidth]{continue-gsm}}
+	\centerline{\includegraphics[width=.9\textwidth]{continue-gsm}}
 	\caption{ادامه فلوچارت نحوه کار \lr{GSM} \cite{ElShafee2013}}
 \end{figure}
 
@@ -57,11 +59,12 @@
 در فلوچارت شکل ۴-۶ فلوچارت اسکریپت \lr{PHP} نشان داده شده است.
 
 \begin{figure}[h!]
-	\centering{\includegraphics[width=.3\textwidth]{php-flowchart}}
+	\centering{\includegraphics[width=.6\textwidth]{php-flowchart}}
 	\caption{فلوچارت فایل  \lr{PHP} \cite{ElShafee2013}}
 \end{figure}
 \section{بررسی معماری مدار}
-در این قسمت بخش سخت‌ افزاری سیستم پیشنهادی را توضیح می‌دهیم. همانطور که در قسمت‌های قبل مشخص شد، با استفاده از آنتن جی‌ پی اس متصل به ماژول سیم ۸۰۸ اطلاعات مربوط به موقعیت مکانی شی از ماهواره دریافت شده و سپس از طریق شبکه جی اس ام به سرور فرستاده می‌شود. در شکل ۴-۷ شیوه اتصال ماژول سیم ۸۰۸ به آردوینو را مشاهده می‌کنید.
+در این قسمت بخش سخت‌ افزاری سیستم پیشنهادی را توضیح می‌دهیم. همانطور که در قسمت‌های قبل مشخص شد، با استفاده از آنتن جی‌ پی اس متصل به ماژول سیم ۸۰۸ اطلاعات مربوط به موقعیت مکانی شی از ماهواره دریافت شده و سپس از طریق شبکه جی اس ام به سرور فرستاده می‌شود. \\
+در شکل ۴-۷ شیوه اتصال ماژول سیم ۸۰۸ به آردوینو را مشاهده می‌کنید.
 \\
 \begin{figure}[!h]
 	\centerline{\includegraphics[width=.6\textwidth]{sim808-arduino}}
