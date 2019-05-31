@@ -26,6 +26,13 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{datasheet}
+\href{https://cdn-shop.adafruit.com/datasheets/SIM808_Hardware+Design_V1.00.pdf}{https://cdn-shop.adafruit.com/datasheets/SIM808_Hardware+Design_V1.00.pdf}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{bidabad}
 Bidabad, Behroz and Tayebi, Akbar.
 \newblock Design and implementation of vehicle tracking system using

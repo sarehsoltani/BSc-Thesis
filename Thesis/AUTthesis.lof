@@ -11,15 +11,15 @@
 \contentsline {figure}{\numberline {3-5}{\ignorespaces نمایی از قسمت پشت تراشه \lr {SIM 808}}}{26}{figure.3.5}% 
 \contentsline {figure}{\numberline {3-6}{\ignorespaces آنتن \lr {GPS}}}{28}{figure.3.6}% 
 \contentsline {figure}{\numberline {3-7}{\ignorespaces مشخصات آنتن \lr {GSM}}}{28}{figure.3.7}% 
-\contentsline {figure}{\numberline {3-8}{\ignorespaces آنتن \lr {GSM}}}{28}{figure.3.8}% 
+\contentsline {figure}{\numberline {3-8}{\ignorespaces آنتن \lr {GSM}}}{29}{figure.3.8}% 
 \contentsline {figure}{\numberline {3-9}{\ignorespaces نمایی از نرم‌افزار آردوینو}}{29}{figure.3.9}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces سیستم ردیابی طراحی شده}}{31}{figure.4.1}% 
-\contentsline {figure}{\numberline {4-2}{\ignorespaces عملکرد کد پیاده‌سازی شده بر روی آردوینو \cite {Rahman2016,Alshamsi,Hazza}}}{32}{figure.4.2}% 
-\contentsline {figure}{\numberline {4-3}{\ignorespaces فلوچارت خواندن اطلاعات \lr {GPS} \cite {ElShafee2013}}}{33}{figure.4.3}% 
-\contentsline {figure}{\numberline {4-4}{\ignorespaces فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{33}{figure.4.4}% 
-\contentsline {figure}{\numberline {4-5}{\ignorespaces ادامه فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{34}{figure.4.5}% 
-\contentsline {figure}{\numberline {4-6}{\ignorespaces فلوچارت فایل \lr {PHP} \cite {ElShafee2013}}}{34}{figure.4.6}% 
-\contentsline {figure}{\numberline {4-7}{\ignorespaces شیوه اتصال آردوینو به ماژول \lr {SIM808}\cite {interface}}}{35}{figure.4.7}% 
+\contentsline {figure}{\numberline {4-1}{\ignorespaces سیستم ردیابی طراحی شده}}{32}{figure.4.1}% 
+\contentsline {figure}{\numberline {4-2}{\ignorespaces عملکرد کد پیاده‌سازی شده بر روی آردوینو \cite {Rahman2016,Alshamsi,Hazza}}}{33}{figure.4.2}% 
+\contentsline {figure}{\numberline {4-3}{\ignorespaces فلوچارت خواندن اطلاعات \lr {GPS} \cite {ElShafee2013}}}{34}{figure.4.3}% 
+\contentsline {figure}{\numberline {4-4}{\ignorespaces فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{34}{figure.4.4}% 
+\contentsline {figure}{\numberline {4-5}{\ignorespaces ادامه فلوچارت نحوه کار \lr {GSM} \cite {ElShafee2013}}}{35}{figure.4.5}% 
+\contentsline {figure}{\numberline {4-6}{\ignorespaces فلوچارت فایل \lr {PHP} \cite {ElShafee2013}}}{35}{figure.4.6}% 
+\contentsline {figure}{\numberline {4-7}{\ignorespaces شیوه اتصال آردوینو به ماژول \lr {SIM808}\cite {interface}}}{36}{figure.4.7}% 
 \addvspace {10\p@ }
 \contentsfinish 

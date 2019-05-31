@@ -19,19 +19,16 @@
 \BOOKMARK [1][-]{section.3.2}{طراحی و معماری سیستم}{chapter.3}% 19
 \BOOKMARK [1][-]{section.3.3}{اجزاء سیستم}{chapter.3}% 20
 \BOOKMARK [2][-]{subsection.3.3.1}{اجزاء سخت‌افزاری}{section.3.3}% 21
-\BOOKMARK [2][-]{subsection.3.3.2}{ماژول آردوینو}{section.3.3}% 22
-\BOOKMARK [2][-]{subsection.3.3.3}{ماژول SIM 808}{section.3.3}% 23
-\BOOKMARK [2][-]{subsection.3.3.4}{آنتن GPS}{section.3.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.5}{آنتن GSM}{section.3.3}% 25
-\BOOKMARK [2][-]{subsection.3.3.6}{اجزاء نرم‌افزاری}{section.3.3}% 26
-\BOOKMARK [2][-]{subsection.3.3.7}{نرم‌افزار Arduino IDE}{section.3.3}% 27
-\BOOKMARK [2][-]{subsection.3.3.8}{google\040map}{section.3.3}% 28
-\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 29
-\BOOKMARK [1][-]{section.4.1}{بررسی عملکرد سیستم ردیابی}{chapter.4}% 30
-\BOOKMARK [2][-]{subsection.4.1.1}{بررسی عملکرد مدار}{section.4.1}% 31
-\BOOKMARK [1][-]{section.4.2}{بررسی معماری مدار}{chapter.4}% 32
-\BOOKMARK [1][-]{section.4.3}{برنامه کاربردی}{chapter.4}% 33
-\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 34
-\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 35
-\BOOKMARK [0][-]{appendix*.5}{منابع و مراجع}{}% 36
-\BOOKMARK [0][-]{appendix*.6}{پیوست}{}% 37
+\BOOKMARK [2][-]{subsection.3.3.2}{آنتن GSM}{section.3.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.3}{اجزاء نرم‌افزاری}{section.3.3}% 23
+\BOOKMARK [2][-]{subsection.3.3.4}{نرم‌افزار Arduino IDE}{section.3.3}% 24
+\BOOKMARK [2][-]{subsection.3.3.5}{google\040map}{section.3.3}% 25
+\BOOKMARK [0][-]{chapter.4}{پیاده‌سازی}{}% 26
+\BOOKMARK [1][-]{section.4.1}{بررسی عملکرد سیستم ردیابی}{chapter.4}% 27
+\BOOKMARK [2][-]{subsection.4.1.1}{بررسی عملکرد مدار}{section.4.1}% 28
+\BOOKMARK [1][-]{section.4.2}{بررسی معماری مدار}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.3}{برنامه کاربردی}{chapter.4}% 30
+\BOOKMARK [0][-]{chapter.5}{جمع‌بندي و نتيجه‌گيري}{}% 31
+\BOOKMARK [1][-]{section.5.1}{پیشنهادات}{chapter.5}% 32
+\BOOKMARK [0][-]{appendix*.5}{منابع و مراجع}{}% 33
+\BOOKMARK [0][-]{appendix*.6}{پیوست}{}% 34
