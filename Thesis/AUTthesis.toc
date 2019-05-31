@@ -34,9 +34,9 @@
 \contentsline {section}{\numberline {4-1}بررسی عملکرد سیستم ردیابی}{33}{section.4.1}% 
 \contentsline {subsection}{\numberline {4-1-1}بررسی عملکرد مدار}{33}{subsection.4.1.1}% 
 \contentsline {section}{\numberline {4-2}بررسی معماری مدار}{36}{section.4.2}% 
-\contentsline {section}{\numberline {4-3}برنامه کاربردی}{36}{section.4.3}% 
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{37}{chapter.5}% 
-\contentsline {section}{\numberline {5-1}پیشنهادات}{38}{section.5.1}% 
-\contentsline {chapter}{منابع و مراجع}{39}{appendix*.5}% 
-\contentsline {chapter}{پیوست}{42}{appendix*.6}% 
+\contentsline {section}{\numberline {4-3}برنامه کاربردی}{37}{section.4.3}% 
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{38}{chapter.5}% 
+\contentsline {section}{\numberline {5-1}پیشنهادات}{39}{section.5.1}% 
+\contentsline {chapter}{منابع و مراجع}{40}{appendix*.5}% 
+\contentsline {chapter}{پیوست}{43}{appendix*.6}% 
 \contentsfinish 

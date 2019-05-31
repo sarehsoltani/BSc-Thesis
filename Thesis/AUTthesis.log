@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  31 MAY 2019 13:04
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  31 MAY 2019 13:48
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1521,12 +1521,17 @@ File: arduino-ide.jpg Graphic file (type bmp)
 ]
 File: design-system.png Graphic file (type bmp)
 <design-system.png>
- [32]
+ [32] [33]
 File: tracking-flowchart.png Graphic file (type bmp)
 <tracking-flowchart.png>
 File: gps-flowchart.png Graphic file (type bmp)
 <gps-flowchart.png>
- [33]
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--38
+[][]
+ []
+
+[34]
 File: gsm-flowchart.jpeg Graphic file (type bmp)
 <gsm-flowchart.jpeg>
 File: continue-gsm.png Graphic file (type bmp)
@@ -1535,21 +1540,26 @@ File: continue-gsm.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[34]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: php-flowchart.png Graphic file (type bmp)
 <php-flowchart.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: sim808-arduino.jpeg Graphic file (type bmp)
 <sim808-arduino.jpeg>
- [35]) [36]
+[35] [36]) [37]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[37
+[38
 
 
 
-]) [38] (AUTthesis.bbl
+]) [39] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1577,7 +1587,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[39
+[40
 
 
 ]
@@ -1586,17 +1596,17 @@ Underfull \hbox (badness 1558) in paragraph at lines 107--112
 osition detection by using[]
  []
 
-[40]) [41]
+[41]) [42]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [42
+ (appendix1.tex) [43
 
 
 ]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [43
+(en-abstract.tex) [44
 
 
 ] (en_title.tex)
@@ -1620,4 +1630,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (53 pages).
+Output written on AUTthesis.pdf (54 pages).
