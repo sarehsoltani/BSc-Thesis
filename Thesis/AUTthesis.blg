@@ -14,6 +14,7 @@ Warning--to sort, need author or key in interface
 Warning--to sort, need author or key in datasheet
 -- plain-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty school in phdthesis
 
 Done.
-(There were 4 warnings)
+(There were 5 warnings)

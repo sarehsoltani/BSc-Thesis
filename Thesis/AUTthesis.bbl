@@ -33,6 +33,16 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Agrawal2018}
+Agrawal, Tarun and Qadeer, Mohamaad~Abdul.
+\newblock Tracing path with arduino uno using {GPS} and {GPRS}/{GSM}.
+\newblock  in {\em 2018 International Conference on Computing, Power and
+  Communication Technologies ({GUCON})}. {IEEE}, September 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{bidabad}
 Bidabad, Behroz and Tayebi, Akbar.
 \newblock Design and implementation of vehicle tracking system using
@@ -59,6 +69,15 @@ ElShafee, Ahmed, Menshawi, Mahmoud~El, and Saeed, Mena.
   technologies.
 \newblock {\em International Journal of Computer Applications}, 72(11):22--30,
   June 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{phdthesis}
+Falih, Muntasser and Salim, Khalifaa.
+\newblock {\em Design and Implementation of GPS Based Navigation System}.
+\newblock  Ph.D. thesis, September 2013.
 
 \end{LTRbibitems}
 
