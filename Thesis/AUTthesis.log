@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  31 MAY 2019 12:50
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  31 MAY 2019 13:04
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1507,15 +1507,9 @@ File: GSM-antenna.jpg Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no ٰ in font B Nazanin/OT:script=arab;language=DFLT
-;mapping=persian-tex-text;!
 File: arduino-ide.jpg Graphic file (type bmp)
 <arduino-ide.jpg>
-[28]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [29] [30]
+[28]) [29] [30]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
