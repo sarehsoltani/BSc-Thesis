@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  8 JUN 2019 12:49
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  8 JUN 2019 13:07
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1428,7 +1428,7 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
 (Font)              scaled to size 7.70004pt on input line 2.
  [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 [][]
  []
 
@@ -1521,7 +1521,11 @@ File: arduino-ide.jpg Graphic file (type bmp)
 ]
 File: design-system.png Graphic file (type bmp)
 <design-system.png>
- [32] [33]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32] [33]
 File: tracking-flowchart.png Graphic file (type bmp)
 <tracking-flowchart.png>
 File: gps-flowchart.png Graphic file (type bmp)
@@ -1549,7 +1553,11 @@ File: continue-gsm.png Graphic file (type bmp)
 <continue-gsm.png>
 File: php-flowchart.png Graphic file (type bmp)
 <php-flowchart.png>
- [37] [38]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37] [38]
 File: sim808-arduino.jpeg Graphic file (type bmp)
 <sim808-arduino.jpeg>
 ) [39]

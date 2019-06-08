@@ -31,8 +31,8 @@
 \contentsline {subsubsection}{\numberline {3-3-2-1}نرم‌افزار \lr {Arduino IDE}}{29}{subsubsection.3.3.2.1}% 
 \contentsline {subsubsection}{\numberline {3-3-2-2}\lr {google map}}{30}{subsubsection.3.3.2.2}% 
 \contentsline {chapter}{\numberline {4}پیاده‌سازی سیستم ردیابی}{31}{chapter.4}% 
-\contentsline {section}{\numberline {4-1}بررسی عملکرد سیستم ردیابی}{33}{section.4.1}% 
-\contentsline {subsection}{\numberline {4-1-1}بررسی عملکرد مدار}{33}{subsection.4.1.1}% 
+\contentsline {section}{\numberline {4-1}بررسی عملکرد سیستم ردیابی}{32}{section.4.1}% 
+\contentsline {subsection}{\numberline {4-1-1}بررسی عملکرد مدار}{32}{subsection.4.1.1}% 
 \contentsline {section}{\numberline {4-2}بررسی معماری مدار}{38}{section.4.2}% 
 \contentsline {section}{\numberline {4-3}برنامه کاربردی}{39}{section.4.3}% 
 \contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري}{40}{chapter.5}% 
