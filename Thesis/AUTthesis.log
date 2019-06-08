@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  31 MAY 2019 15:40
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  8 JUN 2019 12:49
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1619,15 +1619,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 (en-abstract.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
-
-
-Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: 34FEA0A55F8EB8CE84357E8ECD7DFB38
-(rerunfilecheck)             After:  13EECFD597126C087CE8B41FFCEEB9C0.
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: AD73B055B6912E6C32A827D4EC7E6BCB.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:

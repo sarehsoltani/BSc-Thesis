@@ -4,7 +4,7 @@
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}% 
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {chapter}{\numberline {2}مفاهیم}{6}{chapter.2}% 
+\contentsline {chapter}{\numberline {2}مفاهیم اولیه}{6}{chapter.2}% 
 \contentsline {section}{\numberline {2-1}اینترنت اشیا}{7}{section.2.1}% 
 \contentsline {subsection}{\numberline {2-1-1}سیر تکامل}{8}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2-1-2}اکوسیستم}{9}{subsection.2.1.2}% 
