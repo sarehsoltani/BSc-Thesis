@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  8 JUN 2019 13:07
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  8 JUN 2019 13:50
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1519,29 +1519,30 @@ File: arduino-ide.jpg Graphic file (type bmp)
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[][]
+ []
+
+[32]
 File: design-system.png Graphic file (type bmp)
 <design-system.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[32] [33]
+ [33]
 File: tracking-flowchart.png Graphic file (type bmp)
 <tracking-flowchart.png>
 File: gps-flowchart.png Graphic file (type bmp)
 <gps-flowchart.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
 [][]
  []
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 [][]
  []
 
@@ -1551,25 +1552,29 @@ File: gsm-flowchart.jpeg Graphic file (type bmp)
  [36]
 File: continue-gsm.png Graphic file (type bmp)
 <continue-gsm.png>
-File: php-flowchart.png Graphic file (type bmp)
-<php-flowchart.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+[][]
+ []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+[][]
+ []
 
-[37] [38]
+[37]
 File: sim808-arduino.jpeg Graphic file (type bmp)
 <sim808-arduino.jpeg>
-) [39]
+) [38]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[40
+[39
 
 
 
-]) [41] (AUTthesis.bbl
+]) [40] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1597,7 +1602,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[42
+[41
 
 
 ]
@@ -1606,17 +1611,17 @@ Underfull \hbox (badness 1558) in paragraph at lines 107--112
 osition detection by using[]
  []
 
-[43]) [44]
+[42]) [43]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [45
+ (appendix1.tex) [44
 
 
 ]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [46
+(en-abstract.tex) [45
 
 
 ] (en_title.tex)
@@ -1632,12 +1637,12 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25958 strings out of 427748
- 486819 string characters out of 3147202
+ 25960 strings out of 427748
+ 486818 string characters out of 3147202
  630938 words of memory out of 3000000
- 29545 multiletter control sequences out of 15000+200000
+ 29548 multiletter control sequences out of 15000+200000
  540319 words of font info for 131 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (56 pages).
+Output written on AUTthesis.pdf (55 pages).
