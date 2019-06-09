@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  9 JUN 2019 15:41
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  9 JUN 2019 16:25
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1587,7 +1587,7 @@ File: sms.jpeg Graphic file (type bmp)
 
 
 
-]) [43] (AUTthesis.bbl
+] [43]) [44] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1615,7 +1615,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[44
+[45
 
 
 ]
@@ -1624,17 +1624,17 @@ Underfull \hbox (badness 1558) in paragraph at lines 107--112
 osition detection by using[]
  []
 
-[45]) [46]
+[46]) [47]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [47
+ (appendix1.tex) [48
 
 
 ]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [48
+(en-abstract.tex) [49
 
 
 ] (en_title.tex)
@@ -1646,7 +1646,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: A32DAB518A1A28CB4687485B37493038.
+(rerunfilecheck)             Checksum: 2E97816415BC39821083EFC8BD322813.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
@@ -1658,4 +1658,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (58 pages).
+Output written on AUTthesis.pdf (59 pages).

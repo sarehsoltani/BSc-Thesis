@@ -41,6 +41,7 @@
 \contentsline {subsubsection}{\numberline {4-3-2-2}پیام کوتاه}{41}{subsubsection.4.3.2.2}% 
 \contentsline {chapter}{\numberline {5}جمع‌بندي و کارهای آتی}{42}{chapter.5}% 
 \contentsline {section}{\numberline {5-1}جمع‌بندی}{43}{section.5.1}% 
-\contentsline {chapter}{منابع و مراجع}{44}{appendix*.5}% 
-\contentsline {chapter}{پیوست}{47}{appendix*.6}% 
+\contentsline {section}{\numberline {5-2}کارهای آتی}{43}{section.5.2}% 
+\contentsline {chapter}{منابع و مراجع}{45}{appendix*.5}% 
+\contentsline {chapter}{پیوست}{48}{appendix*.6}% 
 \contentsfinish 
