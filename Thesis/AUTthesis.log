@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  13 JUN 2019 15:14
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  13 JUN 2019 17:32
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1633,10 +1633,64 @@ osition detection by using[]
 [47]) [48]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [49
+ (appendix1.tex
+File: code1.png Graphic file (type bmp)
+<code1.png>
+ [49
 
 
 ]
+File: code2.png Graphic file (type bmp)
+<code2.png>
+File: code3.png Graphic file (type bmp)
+<code3.png>
+ [50]
+File: code4.png Graphic file (type bmp)
+<code4.png>
+File: code5.png Graphic file (type bmp)
+<code5.png>
+ [51]
+File: code6.png Graphic file (type bmp)
+<code6.png>
+File: code7.png Graphic file (type bmp)
+<code7.png>
+ [52]
+File: code8.png Graphic file (type bmp)
+<code8.png>
+File: code9.png Graphic file (type bmp)
+<code9.png>
+ [53]
+File: code10.png Graphic file (type bmp)
+<code10.png>
+File: code11.png Graphic file (type bmp)
+<code11.png>
+ [54]
+File: code12.png Graphic file (type bmp)
+<code12.png>
+File: code13.png Graphic file (type bmp)
+<code13.png>
+ [55]
+File: code14.png Graphic file (type bmp)
+<code14.png>
+File: code15.png Graphic file (type bmp)
+<code15.png>
+ [56]
+File: code16.png Graphic file (type bmp)
+<code16.png>
+File: code17.png Graphic file (type bmp)
+<code17.png>
+File: code18.png Graphic file (type bmp)
+<code18.png>
+File: code19.png Graphic file (type bmp)
+<code19.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [57] [58]
 No file AUTthesis.ind.
 (en_title.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
@@ -1650,12 +1704,12 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 25961 strings out of 427748
- 486495 string characters out of 3147202
+ 26037 strings out of 427748
+ 487466 string characters out of 3147202
  631943 words of memory out of 3000000
- 29560 multiletter control sequences out of 15000+200000
+ 29617 multiletter control sequences out of 15000+200000
  540271 words of font info for 125 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,12n,69p,2696b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,12n,69p,2696b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (58 pages).
+Output written on AUTthesis.pdf (67 pages).
