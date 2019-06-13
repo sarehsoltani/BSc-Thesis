@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  13 JUN 2019 17:32
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  13 JUN 2019 17:46
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1625,7 +1625,7 @@ my insertion and my current dilemma will both disappear.
 
 
 ]
-Underfull \hbox (badness 1558) in paragraph at lines 107--112
+Underfull \hbox (badness 1558) in paragraph at lines 104--109
 [][]\TU/TimesNewRoman(0)/m/n/12 Koyuncu, Baki and Özdemir, Zeynep.  Real time p
 osition detection by using[]
  []
@@ -1710,6 +1710,6 @@ Here is how much of TeX's memory you used:
  29617 multiletter control sequences out of 15000+200000
  540271 words of font info for 125 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,12n,69p,2696b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,12n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on AUTthesis.pdf (67 pages).
