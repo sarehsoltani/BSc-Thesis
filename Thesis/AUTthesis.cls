@@ -76,7 +76,7 @@
 \@department
 \else
 \if@bscthesis
-پروژه کارشناسی
+پایان‌نامه کارشناسی
 \vspace{-.8cm}
 
 \@department
