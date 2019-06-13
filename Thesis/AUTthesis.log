@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  13 JUN 2019 17:46
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  14 JUN 2019 00:09
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1574,8 +1574,8 @@ File: webapp3.jpg Graphic file (type bmp)
 File: webapp4.jpg Graphic file (type bmp)
 <webapp4.jpg>
  [38]
-File: deliveredSMS.png Graphic file (type bmp)
-<deliveredSMS.png>
+File: msg.png Graphic file (type bmp)
+<msg.png>
  [39] [40]
 File: sms.jpeg Graphic file (type bmp)
 <sms.jpeg>
@@ -1679,10 +1679,20 @@ File: code16.png Graphic file (type bmp)
 <code16.png>
 File: code17.png Graphic file (type bmp)
 <code17.png>
+ [57]
 File: code18.png Graphic file (type bmp)
 <code18.png>
 File: code19.png Graphic file (type bmp)
 <code19.png>
+ [58]
+File: code20.png Graphic file (type bmp)
+<code20.png>
+File: code21.png Graphic file (type bmp)
+<code21.png>
+File: code22.png Graphic file (type bmp)
+<code22.png>
+File: code23.png Graphic file (type bmp)
+<code23.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1690,7 +1700,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [57] [58]
+) [59] [60]
 No file AUTthesis.ind.
 (en_title.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
@@ -1704,12 +1714,12 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 26037 strings out of 427748
- 487466 string characters out of 3147202
+ 26053 strings out of 427748
+ 487642 string characters out of 3147202
  631943 words of memory out of 3000000
- 29617 multiletter control sequences out of 15000+200000
+ 29629 multiletter control sequences out of 15000+200000
  540271 words of font info for 125 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (67 pages).
+Output written on AUTthesis.pdf (69 pages).
