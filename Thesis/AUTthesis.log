@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  13 JUN 2019 12:36
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  13 JUN 2019 12:45
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1568,7 +1568,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--65
 [36]
 File: sim808-arduino.jpeg Graphic file (type bmp)
 <sim808-arduino.jpeg>
- [37] [38]
+ [37] [38] [39]
 File: webapp3.jpg Graphic file (type bmp)
 <webapp3.jpg>
 File: webapp4.jpg Graphic file (type bmp)
@@ -1578,26 +1578,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--110
 [][]
  []
 
-[39]
+[40]
 File: sms.jpeg Graphic file (type bmp)
 <sms.jpeg>
- [40]
+ [41]
 Underfull \hbox (badness 10000) in paragraph at lines 121--123
 [][]
  []
 
 File: heatmap.png Graphic file (type bmp)
 <heatmap.png>
-) [41]
+) [42]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 فصل 5.
-[42
+[43
 
 
 
-] [43]) [44] (AUTthesis.bbl
+] [44]) [45] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1625,7 +1625,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[45
+[46
 
 
 ]
@@ -1634,10 +1634,10 @@ Underfull \hbox (badness 1558) in paragraph at lines 107--112
 osition detection by using[]
  []
 
-[46]) [47]
+[47]) [48]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [48
+ (appendix1.tex) [49
 
 
 ]
@@ -1662,4 +1662,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (57 pages).
+Output written on AUTthesis.pdf (58 pages).

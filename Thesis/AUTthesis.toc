@@ -37,11 +37,11 @@
 \contentsline {subsection}{\numberline {4-3-1}پایگاه داده}{38}{subsection.4.3.1}% 
 \contentsline {subsection}{\numberline {4-3-2}نمایش اطلاعات}{38}{subsection.4.3.2}% 
 \contentsline {subsubsection}{\numberline {4-3-2-1}وب اپلیکیشن}{38}{subsubsection.4.3.2.1}% 
-\contentsline {subsubsection}{\numberline {4-3-2-2}پیام کوتاه}{40}{subsubsection.4.3.2.2}% 
-\contentsline {section}{\numberline {4-4}تحلیل اطلاعات}{41}{section.4.4}% 
-\contentsline {chapter}{\numberline {5}جمع‌بندي و کارهای آتی}{42}{chapter.5}% 
-\contentsline {section}{\numberline {5-1}جمع‌بندی}{43}{section.5.1}% 
-\contentsline {section}{\numberline {5-2}کارهای آتی}{43}{section.5.2}% 
-\contentsline {chapter}{منابع و مراجع}{45}{appendix*.5}% 
-\contentsline {chapter}{پیوست}{48}{appendix*.6}% 
+\contentsline {subsubsection}{\numberline {4-3-2-2}پیام کوتاه}{41}{subsubsection.4.3.2.2}% 
+\contentsline {section}{\numberline {4-4}تحلیل اطلاعات}{42}{section.4.4}% 
+\contentsline {chapter}{\numberline {5}جمع‌بندي و کارهای آتی}{43}{chapter.5}% 
+\contentsline {section}{\numberline {5-1}جمع‌بندی}{44}{section.5.1}% 
+\contentsline {section}{\numberline {5-2}کارهای آتی}{44}{section.5.2}% 
+\contentsline {chapter}{منابع و مراجع}{46}{appendix*.5}% 
+\contentsline {chapter}{پیوست}{49}{appendix*.6}% 
 \contentsfinish 
