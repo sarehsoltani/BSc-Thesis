@@ -194,6 +194,16 @@ Saranya, J. and Selvakumar, J.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{one}
+SeokJu~Lee, Girma~Tewolde, Jaerock~KwonBidabad.
+\newblock Design and implementation of vehicle tracking system using
+  gps/gsm/gprs technology and smartphone application.
+\newblock {\em arXiv preprint arXiv:0710.2816}, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Shah2016}
 Shah, Sajjad~Hussain and Yaqoob, Ilyas.
 \newblock A survey: Internet of things ({IOT}) technologies, applications and
