@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  14 JUN 2019 00:09
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  15 JUN 2019 08:43
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1452,25 +1452,11 @@ File: iot-m2m.png Graphic file (type bmp)
  [7] [8] [9]
 File: iot-arc.jpg Graphic file (type bmp)
 <iot-arc.jpg>
- [10] [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 109--113
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--113
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--113
-[][]
- []
-
-[13] [14] [15] [16] [17] [18]) [19]
+ [10] [11] [12] [13] [14] [15] [16] [17] [18]) [19]
 \openout2 = `chapter3.aux'.
 
- (chapter3.tex
+
+(chapter3.tex
 فصل 3.
 [20
 
@@ -1493,26 +1479,24 @@ File: sim809.jpg Graphic file (type bmp)
 <sim809.jpg>
 File: backside-sim808.jpg Graphic file (type bmp)
 <backside-sim808.jpg>
- [25] [26]
-File: gps-antanna.png Graphic file (type bmp)
-<gps-antanna.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25] [26]
+File: gps-antanna.png Graphic file (type bmp)
+<gps-antanna.png>
 File: table1.png Graphic file (type bmp)
 <table1.png>
 File: GSM-antenna.jpg Graphic file (type bmp)
 <GSM-antenna.jpg>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+ [27]
 File: arduino-ide.jpg Graphic file (type bmp)
 <arduino-ide.jpg>
-) [27] [28] [29]
+) [28] [29]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
@@ -1710,15 +1694,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 07087295DD7947673B61DC917C94C40B.
+(rerunfilecheck)             Checksum: C87E82D152D8A3CC3B763FFF79639EFB.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 26053 strings out of 427748
- 487642 string characters out of 3147202
+ 26049 strings out of 427748
+ 487658 string characters out of 3147202
  631943 words of memory out of 3000000
- 29629 multiletter control sequences out of 15000+200000
- 540271 words of font info for 125 fonts, out of 3000000 for 9000
+ 29624 multiletter control sequences out of 15000+200000
+ 540279 words of font info for 126 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
