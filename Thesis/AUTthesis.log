@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  15 JUN 2019 11:05
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.1)  16 JUN 2019 19:40
 entering extended mode
 **./AUTthesis.tex
 (AUTthesis.tex
@@ -1372,7 +1372,7 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
  (AUTthesis.toc
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 13.20007pt on input line 7.
+(Font)              scaled to size 13.20007pt on input line 6.
  [2
 
 ])
@@ -1385,10 +1385,15 @@ LaTeX Font Info:    Font shape `TU/PGaramond(0)/bx/n' will be
 
  [4
 
+]) (list-of-symbols.tex [5
+
+
+
 ])
 \openout2 = `chapter1.aux'.
 
- (chapter1.tex
+
+(chapter1.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
 (Font)              scaled to size 29.85593pt on input line 1.
@@ -1397,9 +1402,6 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
 LaTeX Font Info:    Font shape `TU/BNazanin(1)/bx/n' will be
 (Font)              scaled to size 32.84999pt on input line 1.
 [1
-
-
-
 
 
 ]
@@ -1427,13 +1429,13 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 8.39998pt on input line 2.
 LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
 (Font)              scaled to size 7.70004pt on input line 2.
- [2]
+
 Overfull \hbox (3.15005pt too wide) in paragraph at lines 13--14
 [][]\TU/BNazanin(0)/m/n/12 به طور گسترده اینترنت اشیا می‌تواند به عنوان ستون اص
 لی سیستم‌های فراگیر و فعال‌سازی محیط‌های[]
  []
 
-[3] [4]) [5]
+[2] [3] [4]) [5]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
@@ -1515,7 +1517,7 @@ File: arduino-ide.jpg Graphic file (type bmp)
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
+Underfull \hbox (badness 10000) in paragraph at lines 5--10
 [][]
  []
 
@@ -1528,33 +1530,28 @@ File: tracking-flowchart.png Graphic file (type bmp)
 File: gps-flowchart.png Graphic file (type bmp)
 <gps-flowchart.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--44
+Underfull \hbox (badness 10000) in paragraph at lines 23--38
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--44
+Underfull \hbox (badness 10000) in paragraph at lines 23--38
 [][]
  []
 
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-[][]
- []
-
-[37]
+[36] [37]
 File: gsm-flowchart.jpeg Graphic file (type bmp)
 <gsm-flowchart.jpeg>
  [38]
 File: continue-gsm.png Graphic file (type bmp)
 <continue-gsm.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--65
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 [][]
  []
 
@@ -1705,16 +1702,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: C87E82D152D8A3CC3B763FFF79639EFB.
+(rerunfilecheck)             Checksum: B618E15FFE70175366E58819B1F8D338.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 26054 strings out of 427748
- 487720 string characters out of 3147202
+ 26058 strings out of 427748
+ 487796 string characters out of 3147202
  631943 words of memory out of 3000000
- 29628 multiletter control sequences out of 15000+200000
+ 29629 multiletter control sequences out of 15000+200000
  540279 words of font info for 126 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,12n,69p,2696b,534s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on AUTthesis.pdf (73 pages).
+Output written on AUTthesis.pdf (74 pages).
