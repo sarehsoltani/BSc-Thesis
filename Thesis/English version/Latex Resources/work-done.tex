@@ -61,10 +61,54 @@ Due to the NOSQL structure, Mango DB only stores and searches data, thus signifi
 
 The database received information from the hardware side. Then we store this information, including latitude, longitude, time, and date.
 
-\subsection{Present Information}
+\subsection{Display Information}
 \subsubsection{Web Application}
 A web application has been developed to display the information stored in the database. The front-end of this web application is implemented using the Angular framework, and we use Google Maps to show the route.\\
 This web application is available at the following address: http:// 103.216.62.79
 
 Server-side processes were implemented using the Express framework. The server-side code works in such a way that as soon as new data is received from the hardware side, this data is stored in the Mango database. The hardware sends an HTTP request to the server each time it sends new data to the server: /api/device/add/
 
+The code written on the server side acts in such a way that it refers to the database once every 60 seconds. According to the last time of receiving information from it, it gets the received data from that time. \\
+The following figure shows the designed application:
+ \begin{figure}[!h]
+	\centerline{\includegraphics[width=.6\textwidth]{webapp3}}
+	\caption{Show the path of the object in the application}
+\end{figure}\\
+If we click on any of the markers in the map that indicate the object's position at any time, we can see the speed of the object, time, and date in that position. The following figure shows a view of this output:
+\begin{figure}[!h]
+	\centerline{\includegraphics[width=.9\textwidth]{webapp4}}
+	\caption{Display the speed, time and date of movement of the object in each location on the map}
+\end{figure}
+\subsubsection{SMS}
+One of the unique features of the implemented tracking system is that you can send a message to the SIM card number inserted on the SIM808 module to get the object's current position. After receiving the message, this module also receives the object's location via GPS and sends the necessary information for tracking in response to the received message. This information includes the latitude and longitude and speed of the object. There is also a link attached to this message that the user can click to view the object's location on the map. \\
+\newpage
+In the following figures, you can see the message sent and its response through the designed system:
+\begin{figure}[!h]
+	\centerline{\includegraphics[width=.9\textwidth]{msg}}
+	\caption{Receive the message sent by the user to receive the location}
+\end{figure}
+\newpage
+Figure 3-10 shows the message sent to the user.
+\begin{figure}[!h]
+	\centerline{\includegraphics[width=.3\textwidth]{sms}}
+	\caption{The recieved message}
+\end{figure}
+\\
+By clicking on the received link, you can see the current position of the object on the map. \\
+\begin{figure}[!h]
+	\centerline{\includegraphics[width=.8\textwidth]{map}}
+	\caption{See the position of the object on the map}
+\end{figure}
+\newpage
+\section{Information analysis} 
+Using the designed real-time tracking system, we were able to continuously measure the location of the object and store this information in the database.
+
+Another feature of this system is to get the frequently visited places of a person in a certain period. To do this, we used the heat map. 
+Heatmaps are graphic and color data that enable us to identify the behavior of our users. In this project, we implemented the heatmap using stored information, which was the location of objects at different times. The most visited places of a person, which are more frequent in our data set than the others, will be visible as red areas on the map.
+
+The designed application consists of two maps. ّFirst shows the object's positions on the map, and by selecting the Heatmap option, you can view the heatmap of these points. In Figure 3.12, you can see the high-traffic locations of the object shown in red color.
+
+\begin{figure}[!h]
+	\centerline{\includegraphics[width=.9\textwidth]{heatmap2}}
+	\caption{high-traffic locations on the heatmap}
+\end{figure}
