@@ -1,0 +1,57 @@
+\chapter{Introduction}
+
+In this section we'll take a brief look at the recent researches on \textit{Template Matching} task, its variants and the reliability of the models proposed in this task.
+\section{Background and Recent Research}
+
+\subsection{Feature Based Approach}
+A featured-based approach is appropriate when both reference
+and template images contain more correspondence
+with respect to features and control points. In this case,
+features include points, curves, or a surface model to perform
+template matching. In this category, the final goal is to locate
+the pair-wise connections between the target or so-called
+reference and the template image using spatial relations
+or features. In this approach, spatial relations, invariant
+descriptors, pyramids, wavelets and relaxation methods play
+an important role in extracting matching measures\cite{abstract}.
+
+\subsection{Area Based Approach}
+Area-based methods, which are usually known as correlation
+methods or template matching, were developed for the
+first time by Fonseca et al. [6] and are based on a combined
+algorithm of feature detection and feature matching. This
+method functions very well when the templates have no
+strong features with an image, since they operate directly on
+the pixel values. Matches are measured using the intensity
+values of both image and template. The matching scores
+are extracted by calculating squared differences in fixed
+intensities, correction-based methods, optimization methods
+and mutual information\cite{intro1}.
+
+\subsection{Naive Template Matching}
+Nave template matching is one of the basic methods of
+extracting a given which is identical to the template from
+the image target. In this approach, with or without scaling
+(usually without scaling), the target image is scanned by the
+template, and the similarity measures are calculated. Finally,
+the positions with the strongest similarities are identified as
+potential pattern positions\cite{abstract}. 
+
+\subsection{Image Correlation Matching}
+In this classic template matching method, the similarity
+metric between the target and the template is measured.
+Unlike the naive template matching algorithm, the target and the template might have different image intensities or
+noise levels. However, those images must be aligned. The
+similarity metric used in this approach is based on the
+correlation between the target and the template\cite{intro2}.
+
+\subsection{Sequential Similarity Detection Algorithms}
+Sequential similarity detection algorithms (SSDAs) are
+a more efficient alternative to correlation-based methods,
+including matched filters for translational registration. The
+measure of match is indirectly calculated based on an error
+for corresponding pixels in f and g in the images under
+comparison at any stage of the registration process\cite{intro3}.
+
+\section{Motivation}
+There are dozen optimized implementation of \textit{Template Matching} techniques, but the main motivation for me to do so, was the ability to model and code a real-life problem from scratch. I've also improved my CUDA and C++ programming skills with this project. Also, there are multiple math concepts covered in the \textit{Fast Fourier Transform} section which understanding them can bring an enhanced point of view in image and signal processing tasks.
