@@ -33,8 +33,38 @@ The flowchart 3.4 shows how GSM works:\\
 	\centerline{\includegraphics[width=.6\textwidth]{gsm-flowchart}}
 	\caption{GSM \cite{8}}
 \end{figure}
-\newpage
+\newpage`
 \begin{figure}[!h]
 	\centerline{\includegraphics[width=.9\textwidth]{continue-gsm}}
 	\caption{GSM \cite{8}}
 \end{figure}
+\newpage
+\section{Circuit Architecture evaluation}
+
+In this section, we explain the hardware part of the proposed system. As mentioned in the previous sections, using GPS antenna connected to the SIM 808 module, location information is received from the satellite every two minutes and then sent to the server via the GSM network.\\
+In the following figure, you can see how to connect SIM 808 module to the Arduino.
+\begin{figure}[!h]
+	\centerline{\includegraphics[width=.8\textwidth]{sim808-arduino}}
+	\caption{SIM 808 - Arduino}
+\end{figure}\\
+
+The 808 SIM module is connected to the Arduino using a serial interface; it has two TX and RX pins connected to the 10 and 11 Arduino digital pins, respectively. The ground pin of this module is also connected to the ground connection base of the Arduino board. We supply the required voltage of the 808 SIM module through a 9-volt output adapter.
+\section{Application}
+In the Back-end, a web service with RESTful architecture has been developed, which stores the received data in the database, and the web application receives and displays this information.
+
+REST is a web service architecture that uses HTTP to exchange information between two systems. The basic idea of this architecture is to use HTTP to establish information between machines instead of using complex mechanisms to connect devices.
+
+In this section, we first describe the structure of the database and how to communicate with it. Finally, we explain the written web application that shows the path of the object on the map.
+\subsubsection{Database}
+We have used Mango database to store information and manage the server. Mango DB is a NOSQL database that runs on various operating systems, including Windows and Macintosh Linux. It also supports most programming languages. Mango DB provides high performance, accessibility, scalability, fast repeatability, and automatic sharing.
+Due to the NOSQL structure, Mango DB only stores and searches data, thus significantly increasing data acquisition and storage speed.
+
+The database received information from the hardware side. Then we store this information, including latitude, longitude, time, and date.
+
+\subsection{Present Information}
+\subsubsection{Web Application}
+A web application has been developed to display the information stored in the database. The front-end of this web application is implemented using the Angular framework, and we use Google Maps to show the route.\\
+This web application is available at the following address: http:// 103.216.62.79
+
+Server-side processes were implemented using the Express framework. The server-side code works in such a way that as soon as new data is received from the hardware side, this data is stored in the Mango database. The hardware sends an HTTP request to the server each time it sends new data to the server: /api/device/add/
+
