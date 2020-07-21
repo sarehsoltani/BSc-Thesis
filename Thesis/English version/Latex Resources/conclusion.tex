@@ -1,8 +1,6 @@
 \chapter{Conclusion}
-In this project, we analyzed various algorithms for the task of \textit{Image Template Matching}. It is fair to say that there are already highly optimized libraries with template matching capabilities such as \textit{OpenCV}, but as mentioned before, the main purpose of this project is to improve the understanding of the CUDA environment and parallel implementation of highly-demanded computer vision tasks such as template matching.
-We analyzed two main methods to perform this task:
-\begin{enumerate}
-	\item Naive Template Matching
-	\item FFT Based Template Matching
-\end{enumerate}
-For further read, please refer to methods such as \textit{Stereo Matching}, \textit{Image Registration} and \textit{Scale Invariant Feature Transform}.
+In this project, our goal was the implementation of a real-time tracking system. Therefore, in this project, we implemented a tracking system to monitor the position of a moving object via SMS as well as online on a map. The core of the designed system is Arduino board and SIM 808 module. The GSM modem is controlled using the AT commands and allows the exchange of information using the GSM network. In this project, GPS module has been used to find the position of the object. GPS Once every two minutes, the object's location is received from the satellite, and this information is sent to the server. The server sends the received information to the implemented web service. Finally, data is stored in the database and displayed in the application, and we can see the path of the object on the map.
+
+The program implemented on the Arduino is written in such a way that it receives the location of the object using GPS every two minutes and sends it to the server. On the server side, this information is stored in the Mongo database. Using this information, we show the path of movement of an object on the map. The server-side code is written so that it visits the database every minute, and the map containing the path of the object is updated.
+
+At the end of this project, we were able to design a real-time tracking system. It is used in various fields, such as tracking vehicles, children and the elderly, etc. By using it, we will be able to take the necessary actions in the fastest possible time.
